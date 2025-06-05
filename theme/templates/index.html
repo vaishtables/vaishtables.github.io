@@ -1,0 +1,79 @@
+{% extends "base.html" %}
+{% block content %}
+
+  {% block content_title %}
+    <h1 style="text-align: center; font-size: 5em; font-weight: normal;">
+      {{ SITENAME }}
+    </h1>
+    <div class="back">
+      <h2 class="content-heading" style="text-align: center;">Contents</h2>
+
+      <section class="vp">
+        <ul class="contents">
+         {% macro render_tree(prefix, ancestor_index) %}
+          {% set nodes = [] %}
+
+          {# Collect subcategories #}
+          {% for cat, cat_articles in categories %}
+            {% set parts = cat.name.split('/') %}
+            {% if parts[:prefix|length] == prefix and parts|length == prefix|length + 1 %}
+              {% set _ = nodes.append({
+                'type': 'folder',
+                'name': parts[prefix|length],
+                'full': cat.name,
+                'articles': cat_articles
+              }) %}
+            {% endif %}
+          {% endfor %}
+
+          {% for cat, cat_articles in categories %}
+            {% if cat.name.split('/') == prefix %}
+              {% for art in cat_articles %}
+                {% set _ = nodes.append({
+                  'type': 'file',
+                  'article': art
+                }) %}
+              {% endfor %}
+            {% endif %}
+          {% endfor %}
+
+          {% for node in nodes %}
+            {% set idx = loop.index %}
+            {% if ancestor_index %}
+              {% set index = ancestor_index ~ '.' ~ idx %}
+            {% else %}
+              {% set index = idx %}
+            {% endif %}
+            {% set depth = prefix|length + 1 %}
+
+            {% if node.type == 'folder' %}
+              <li class="content folder depth-{{ depth }}">
+                <span class="index" style="padding-left: {{(depth-1)*2}}em;">{{ index }}</span>
+                <span class="title">{{ node.name }}</span>
+                <span class="dots"></span>
+              </li>
+
+              {{ render_tree(prefix + [node.name], index) }}
+
+            {% elif node.type == 'file' %}
+              <a href="{{ node.article.url }}">
+                <li class="content file depth-{{ depth }}">
+                  <span class="index" style="padding-left: {{(depth-1)*2}}em;">{{ index }}</span>
+                  <span class="title">{{ node.article.title }}</span>
+                  <span class="dots"></span>
+                  <span class="date">{{ node.article.date|strftime('%d/%m/%y') }}</span>
+                </li>
+              </a>
+            {% endif %}
+          {% endfor %}
+        {% endmacro %}
+
+
+          {{ render_tree([], '') }}
+
+        </ul>
+      </section>
+    </div>
+  {% endblock content_title %}
+
+{% endblock content %}

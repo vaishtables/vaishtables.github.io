@@ -1,0 +1,71 @@
+{% extends "base.html" %}
+{% block content %}
+
+  {% block content_title %}
+    <h1 style="text-align: center; font-size: 5em; font-weight: normal;">
+      {{ SITENAME }}
+    </h1>
+    <div class="back">
+      <h2 class="content-heading" style="text-align: center;">Contents</h2>
+
+      <section class="vp">
+        <ul class="contents">
+          {% macro render_tree(prefix, ancestor_index) %}
+    {#— collect all direct children-of‐prefix —#}
+    {% set direct = [] %}
+    {% for cat, articles in categories %}
+      {% set parts = cat.name.split('/') %}
+
+      {% if parts[:prefix|length] == prefix
+            and parts|length == prefix|length + 1 %}
+        {#— instead of “do”, use “set _ = …” —#}
+        {% set _ = direct.append({
+            'name': parts[prefix|length],
+            'full': cat.name,
+            'articles': articles
+          }) %}
+      {% endif %}
+    {% endfor %}
+
+    {% if direct %}
+      <ul>
+        {% for node in direct %}
+          {% set idx = loop.index %}
+          {% if ancestor_index %}
+            {% set index = ancestor_index ~ '.' ~ idx %}
+          {% else %}
+            {% set index = idx %}
+          {% endif %}
+
+          <li class="content folder">
+            <span class="index">{{ index }}</span>
+            <span class="title">{{ node.name }}</span>
+            <span class="dots"></span>
+          </li>
+
+          {% for art in node.articles %}
+            {% set art_index = index ~ '.' ~ loop.index %}
+            <li class="content file">
+              <a href="{{ art.url }}">
+                <span class="index">{{ art_index }}</span>
+                <span class="title">{{ art.title }}</span>
+                <span class="dots"></span>
+                <span class="date">{{ art.date|strftime('%d/%m/%y') }}</span>
+              </a>
+            </li>
+          {% endfor %}
+
+          {{ render_tree(prefix + [node.name], index) }}
+        {% endfor %}
+      </ul>
+    {% endif %}
+          {% endmacro %}
+
+          {{ render_tree([], '') }}
+</ul>
+
+      </section>
+    </div>
+  {% endblock content_title %}
+
+{% endblock content %}

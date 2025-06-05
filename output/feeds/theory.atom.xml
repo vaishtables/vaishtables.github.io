@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Fragments - Theory</title><link href="./" rel="alternate"></link><link href="./feeds/theory.atom.xml" rel="self"></link><id>./</id><updated>2025-06-05T00:00:00-04:00</updated><entry><title>Cognitive Stages (Piaget)</title><link href="./cognitive-stages-piaget.html" rel="alternate"></link><published>2025-06-05T00:00:00-04:00</published><updated>2025-06-05T00:00:00-04:00</updated><author><name>Vaishnavy Puvipalan</name></author><id>tag:None,2025-06-05:./cognitive-stages-piaget.html</id><content type="html">&lt;h1&gt;Cognitive Stages (Piaget)&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;Title: Cognitive Stages (Piaget)
+Authors: Vaishnavy Puvipalan
+Date: 2025-06-03
+ZID: 2025060353 
+Category: Theory
+Tags: Theory&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1&gt;Cognitive Stages (Piaget)&lt;/h1&gt;</content><category term="Theory"></category><category term='"Theory"'></category></entry><entry><title>Information Processing Theory</title><link href="./information-processing-theory.html" rel="alternate"></link><published>2025-06-05T00:00:00-04:00</published><updated>2025-06-05T00:00:00-04:00</updated><author><name>Vaishnavy Puvipalan</name></author><id>tag:None,2025-06-05:./information-processing-theory.html</id><content type="html">&lt;h1&gt;Information Processing Theory&lt;/h1&gt;
+&lt;p&gt;The brain is figured computationally.&lt;/p&gt;</content><category term="Theory"></category><category term='"Theory"'></category></entry><entry><title>Psychosexual Stages (Freud)</title><link href="./psychosexual-stages-freud.html" rel="alternate"></link><published>2025-06-05T00:00:00-04:00</published><updated>2025-06-05T00:00:00-04:00</updated><author><name>Vaishnavy Puvipalan</name></author><id>tag:None,2025-06-05:./psychosexual-stages-freud.html</id><content type="html">&lt;h1&gt;Psychosexual Stages (Freud)&lt;/h1&gt;
+&lt;pre class="mermaid"&gt;
+gantt
+    dateFormat YY
+    axisFormat %y
+    oral : 00,01
+    anal : 01,03
+    phallic : 03,06
+    latent : 06,11
+    genital : 11,60
+&lt;/pre&gt;</content><category term="Theory"></category><category term='"Theory"'></category></entry><entry><title>Psychosocial Stages (Erikson)</title><link href="./psychosocial-stages-erikson.html" rel="alternate"></link><published>2025-06-05T00:00:00-04:00</published><updated>2025-06-05T00:00:00-04:00</updated><author><name>Vaishnavy Puvipalan</name></author><id>tag:None,2025-06-05:./psychosocial-stages-erikson.html</id><content type="html">&lt;h1&gt;Psychosocial Stages (Erikson)&lt;/h1&gt;</content><category term="Theory"></category><category term='"Theory"'></category></entry></feed>

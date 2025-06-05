@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block html_lang %}{{ article.lang }}{% endblock %}
+
+{% block head %}
+  {{ super() }}
+{% endblock %}
+
+{% block content %}
+{%block header%}
+<a href="{{SITEURL}}">{{SITENAME}}</a>
+<p>{{article.category}}</p>
+{%endblock%}
+  <article>
+    {{ article.content }}
+  </article>
+{% endblock %}
