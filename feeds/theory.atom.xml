@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Fragments - Theory</title><link href="./" rel="alternate"></link><link href="./feeds/theory.atom.xml" rel="self"></link><id>./</id><updated>2025-06-06T00:00:00-04:00</updated><entry><title>4 Cognitive Stages (Piaget)</title><link href="./4-cognitive-stages-piaget.html" rel="alternate"></link><published>2025-06-06T00:00:00-04:00</published><updated>2025-06-06T00:00:00-04:00</updated><author><name>Vaishnavy Puvipalan</name></author><id>tag:None,2025-06-06:./4-cognitive-stages-piaget.html</id><summary type="html">&lt;h1&gt;4 Cognitive Stages (Piaget)&lt;/h1&gt;
+&lt;h1&gt;Theory&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;sensorimotor&lt;/li&gt;
+&lt;li&gt;preoperational&lt;/li&gt;
+&lt;li&gt;concrete operational&lt;ul&gt;
+&lt;li&gt;age 7-12 yrs.&lt;/li&gt;
+&lt;li&gt;new skills&lt;ul&gt;
+&lt;li&gt;classification: age 8&lt;/li&gt;
+&lt;li&gt;seriation: age 8&lt;/li&gt;
+&lt;li&gt;conservation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;logic and reasoning for &lt;em&gt;direct&lt;/em&gt; experiences&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;on conservation&lt;ul&gt;
+&lt;li&gt;note about preoperatoinal conservation vs. concrete&lt;/li&gt;
+&lt;li&gt;now they understand&lt;ul&gt;
+&lt;li&gt;identity&lt;/li&gt;
+&lt;li&gt;reversibility&lt;/li&gt;
+&lt;li&gt;logical operation of&lt;ul&gt;
+&lt;li&gt;reciprocity or compensation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;decentration&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class="mermaid"&gt;
+gantt
+dateFormat X …&lt;/pre&gt;</summary><content type="html">&lt;h1&gt;4 Cognitive Stages (Piaget)&lt;/h1&gt;
+&lt;h1&gt;Theory&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;sensorimotor&lt;/li&gt;
+&lt;li&gt;preoperational&lt;/li&gt;
+&lt;li&gt;concrete operational&lt;ul&gt;
+&lt;li&gt;age 7-12 yrs.&lt;/li&gt;
+&lt;li&gt;new skills&lt;ul&gt;
+&lt;li&gt;classification: age 8&lt;/li&gt;
+&lt;li&gt;seriation: age 8&lt;/li&gt;
+&lt;li&gt;conservation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;logic and reasoning for &lt;em&gt;direct&lt;/em&gt; experiences&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;on conservation&lt;ul&gt;
+&lt;li&gt;note about preoperatoinal conservation vs. concrete&lt;/li&gt;
+&lt;li&gt;now they understand&lt;ul&gt;
+&lt;li&gt;identity&lt;/li&gt;
+&lt;li&gt;reversibility&lt;/li&gt;
+&lt;li&gt;logical operation of&lt;ul&gt;
+&lt;li&gt;reciprocity or compensation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;decentration&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class="mermaid"&gt;
+gantt
+dateFormat X
+axisFormat %s
+sensorimotor: 0, 3
+preoperational: 3, 6
+concrete operational: 6, 11
+formal operational: f, 11, 12
+&lt;/pre&gt;</content><category term="Theory"></category><category term='"Theory"'></category></entry><entry><title>Information Processing Theory</title><link href="./information-processing-theory.html" rel="alternate"></link><published>2025-06-06T00:00:00-04:00</published><updated>2025-06-06T00:00:00-04:00</updated><author><name>Vaishnavy Puvipalan</name></author><id>tag:None,2025-06-06:./information-processing-theory.html</id><content type="html">&lt;h1&gt;Information Processing Theory&lt;/h1&gt;
+&lt;h1&gt;Theory&lt;/h1&gt;</content><category term="Theory"></category><category term='"Theory"'></category></entry><entry><title>Sociocultural Theory of Development (Vygotsky)</title><link href="./sociocultural-theory-of-development-vygotsky.html" rel="alternate"></link><published>2025-06-06T00:00:00-04:00</published><updated>2025-06-06T00:00:00-04:00</updated><author><name>Vaishnavy Puvipalan</name></author><id>tag:None,2025-06-06:./sociocultural-theory-of-development-vygotsky.html</id><content type="html">&lt;h1&gt;Sociocultural Theory of Development (Vygotsky)&lt;/h1&gt;
+&lt;h1&gt;Theory&lt;/h1&gt;</content><category term="Theory"></category><category term='"Theory"'></category></entry></feed>
