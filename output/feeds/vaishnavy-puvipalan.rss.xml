@@ -1,5 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Fragments - Vaishnavy Puvipalan</title><link>./</link><description></description><lastBuildDate>Mon, 09 Jun 2025 00:00:00 -0400</lastBuildDate><item><title>Hulling</title><link>./hulling.html</link><description>&lt;h1&gt;Hulling&lt;/h1&gt;
+<rss version="2.0"><channel><title>Fragments - Vaishnavy Puvipalan</title><link>./</link><description></description><lastBuildDate>Tue, 10 Jun 2025 00:00:00 -0400</lastBuildDate><item><title>Development of Cognitive Operations (Piaget)</title><link>./development-of-cognitive-operations-piaget.html</link><description>&lt;h1&gt;Development of Cognitive Operations (Piaget)&lt;/h1&gt;
+&lt;p&gt;Add&lt;br&gt;
+- [ ] conservation failure/emergence
+    - [ ] types of conservation
+- [ ] classification failure/emergence
+- [ ] transductive reasoning (until age 7)
+- [ ] conservation failure/emergence
+    - [ ] varieties and order them (substance precedes volume &amp;amp; weight)
+- [ ] egocentrism (diminishes by age 8)
+- [ ] centration/decentration
+- [ ] perseveration
+- [ ] animism (ends age 3)
+- [ ] inductive reasoning
+- [ ] irreversibility/reversibility&lt;/p&gt;
+&lt;pre class="mermaid"&gt;
+gantt
+dateFormat YY-MM …&lt;/pre&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vaishnavy Puvipalan</dc:creator><pubDate>Tue, 10 Jun 2025 00:00:00 -0400</pubDate><guid isPermaLink="false">tag:None,2025-06-10:./development-of-cognitive-operations-piaget.html</guid><category>Theory</category><category>"Theory"</category></item><item><title>operation (Piaget)</title><link>./operation-piaget.html</link><description>&lt;h1&gt;operation (Piaget)&lt;/h1&gt;
+&lt;dl&gt;
+&lt;dt&gt;operation&lt;/dt&gt;
+&lt;dd&gt;logical manipulation of information &lt;span data-citationItems="[&amp;quot;lally48CognitiveDevelopment2021&amp;quot;]" id="PAR1"&gt;&lt;/span&gt;&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;footer&gt;&lt;/footer&gt;
+&lt;hr&gt;
+&lt;p&gt;#Term&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vaishnavy Puvipalan</dc:creator><pubDate>Tue, 10 Jun 2025 00:00:00 -0400</pubDate><guid isPermaLink="false">tag:None,2025-06-10:./operation-piaget.html</guid><category>Term</category><category>"Term"</category></item><item><title>transductive reasoning (Piaget)</title><link>./transductive-reasoning-piaget.html</link><description>&lt;h1&gt;transductive reasoning (Piaget)&lt;/h1&gt;
+&lt;dl&gt;
+&lt;dt&gt;transductive reasoning&lt;/dt&gt;
+&lt;dd&gt;making faulty inferences from one specific example to another &lt;span data-citationItems="[&amp;quot;lally48CognitiveDevelopment2021&amp;quot;]" id="PAR1"&gt;&lt;/span&gt;&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;hr&gt;
+&lt;h3&gt;Examples&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Lucienne Piaget&lt;/strong&gt;: "It's not afternoon because I haven't had my nap yet!"  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Piaget&lt;/strong&gt;: "Are there more daisies or flowers?"&lt;br&gt;
+&lt;strong&gt;Subject (age 7)&lt;/strong&gt;: "More daisies."  &lt;/p&gt;
+&lt;h3&gt;Notes &amp;amp; Links&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;overgeneralization&lt;ul&gt;
+&lt;li&gt;see &lt;a href="cognitive-development-in-children.html"&gt;"Cognitive Development in Children"&lt;/a&gt; for 'generalization'&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="development-of-cognitive-operations-piaget.html"&gt;Development …&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vaishnavy Puvipalan</dc:creator><pubDate>Tue, 10 Jun 2025 00:00:00 -0400</pubDate><guid isPermaLink="false">tag:None,2025-06-10:./transductive-reasoning-piaget.html</guid><category>Term</category><category>"Term"</category></item><item><title>accommodation (Piaget)</title><link>./accommodation-piaget.html</link><description>&lt;h1&gt;accommodation (Piaget)&lt;/h1&gt;
+&lt;dl&gt;
+&lt;dt&gt;accommodation&lt;/dt&gt;
+&lt;dd&gt;the restructuring of old ideas to include new experiences &lt;span data-citationItems="[&amp;quot;bergerDevelopingPersonChildhood2023&amp;quot;]" id="PAR1"&gt;&lt;/span&gt;&lt;/dd&gt;
+&lt;dd&gt;construction of new logical operations &lt;span data-citationItems="[&amp;quot;piagetPartCognitiveDevelopment1964&amp;quot;]" id="PAR2"&gt;&lt;/span&gt;&lt;/dd&gt;
+&lt;dd&gt;inverse of  &lt;a href="assimilation-piaget.html"&gt;assimilation (Piaget)&lt;/a&gt;&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;footer&gt;&lt;/footer&gt;
+&lt;hr&gt;
+&lt;h1&gt;Term&lt;/h1&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vaishnavy Puvipalan</dc:creator><pubDate>Mon, 09 Jun 2025 00:00:00 -0400</pubDate><guid isPermaLink="false">tag:None,2025-06-09:./accommodation-piaget.html</guid><category>Term</category><category>"Term"</category></item><item><title>assimilation (Piaget)</title><link>./assimilation-piaget.html</link><description>&lt;h1&gt;assimilation (Piaget)&lt;/h1&gt;
+&lt;dl&gt;
+&lt;dt&gt;assimilation&lt;/dt&gt;
+&lt;dd&gt;reinterpretation of new experiences to fit into old ideas &lt;span data-citationItems="[&amp;quot;bergerDevelopingPersonChildhood2023&amp;quot;]" id="PAR1"&gt;&lt;/span&gt;&lt;/dd&gt;
+&lt;dd&gt;integrating stimuli into extant knowledge structures &lt;span data-citationItems="[&amp;quot;piagetPartCognitiveDevelopment1964&amp;quot;]" id="PAR2"&gt;&lt;/span&gt;&lt;/dd&gt;
+&lt;dd&gt;inverse of &lt;a href="accommodation-piaget.html"&gt;accommodation (Piaget)&lt;/a&gt;&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;footer&gt;&lt;/footer&gt;
+&lt;hr&gt;
+&lt;p&gt;#Term&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vaishnavy Puvipalan</dc:creator><pubDate>Mon, 09 Jun 2025 00:00:00 -0400</pubDate><guid isPermaLink="false">tag:None,2025-06-09:./assimilation-piaget.html</guid><category>Term</category><category>"Term"</category></item><item><title>classification (Piaget)</title><link>./classification-piaget.html</link><description>&lt;h1&gt;classification (Piaget)&lt;/h1&gt;
+&lt;dl&gt;
+&lt;dt&gt;classification&lt;/dt&gt;
+&lt;dd&gt;the logical operation that things can be organized into groups or categories or classes according to some common characteristic &lt;span data-citationItems="[&amp;quot;bergerDevelopingPersonChildhood2023&amp;quot;]" id="PAR1"&gt;&lt;/span&gt;[^1]&lt;/dd&gt;
+&lt;dd&gt;typically acquired by 8 yrs., during the concrete operational stage
+[^1]: Piaget references the "daisy vs. flower" example to illustrate how understanding of nested hierarchies is developed …&lt;/dd&gt;&lt;/dl&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vaishnavy Puvipalan</dc:creator><pubDate>Mon, 09 Jun 2025 00:00:00 -0400</pubDate><guid isPermaLink="false">tag:None,2025-06-09:./classification-piaget.html</guid><category>Term</category><category>"Term"</category></item><item><title>cognitive equilibrium (Piaget)</title><link>./cognitive-equilibrium-piaget.html</link><description>&lt;h1&gt;cognitive equilibrium (Piaget)&lt;/h1&gt;
+&lt;h1&gt;Term&lt;/h1&gt;
+&lt;dl&gt;
+&lt;dt&gt;cognitive equilibrium&lt;/dt&gt;
+&lt;dd&gt;in cognitive theory, a state of mental balance in which people are not confused because they can use their existing thought processes to understand current experiences and ideas &lt;span data-citationItems="[&amp;quot;bergerDevelopingPersonChildhood2023&amp;quot;]" id="PAR1"&gt;&lt;/span&gt;&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href="cognitive-development-in-children.html"&gt;"Cognitive Development in Children"&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vaishnavy Puvipalan</dc:creator><pubDate>Mon, 09 Jun 2025 00:00:00 -0400</pubDate><guid isPermaLink="false">tag:None,2025-06-09:./cognitive-equilibrium-piaget.html</guid><category>Term</category><category>"Term"</category></item><item><title>cognitive theory</title><link>./cognitive-theory.html</link><description>&lt;h1&gt;cognitive theory&lt;/h1&gt;
+&lt;h1&gt;Term&lt;/h1&gt;
+&lt;dl&gt;
+&lt;dt&gt;cognitive theory&lt;/dt&gt;
+&lt;dd&gt;a grand theory of human development that focuses on changes in how people think over time&lt;/dd&gt;
+&lt;dd&gt;according to this theory, our thoughts shape our attitudes, beliefs and behaviours &lt;span data-citationItems="[&amp;quot;bergerDevelopingPersonChildhood2023&amp;quot;]" id="PAR1"&gt;&lt;/span&gt;&lt;/dd&gt;
+&lt;/dl&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vaishnavy Puvipalan</dc:creator><pubDate>Mon, 09 Jun 2025 00:00:00 -0400</pubDate><guid isPermaLink="false">tag:None,2025-06-09:./cognitive-theory.html</guid><category>Term</category><category>"Term"</category></item><item><title>educable</title><link>./educable.html</link><description>&lt;h1&gt;educable&lt;/h1&gt;
+&lt;h1&gt;Word&lt;/h1&gt;
+&lt;dl&gt;
+&lt;dt&gt;educable&lt;/dt&gt;
+&lt;dd&gt;capable of being educated&lt;/dd&gt;
+&lt;/dl&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vaishnavy Puvipalan</dc:creator><pubDate>Mon, 09 Jun 2025 00:00:00 -0400</pubDate><guid isPermaLink="false">tag:None,2025-06-09:./educable.html</guid><category>Word</category><category>"Word"</category></item><item><title>horizontal decalage (Piaget)</title><link>./horizontal-decalage-piaget.html</link><description>&lt;h1&gt;horizontal decalage (Piaget)&lt;/h1&gt;
+&lt;h1&gt;Term&lt;/h1&gt;
+&lt;dl&gt;
+&lt;dt&gt;horizontal decalage&lt;/dt&gt;
+&lt;dd&gt;the idea that at each level certain concepts appear in sequence over months or even years &lt;span data-citationItems="[&amp;quot;bergerDevelopingPersonChildhood2023&amp;quot;]" id="PAR1"&gt;&lt;/span&gt;&lt;/dd&gt;
+&lt;dd&gt;stages of knowledge development are sequential and discrete[^1]&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;hr&gt;
+&lt;p&gt;[^1]: the acquisition of conservation of weight and volume build on the conservation of substance &lt;a href="cognitive-development-in-children.html"&gt;"Cognitive Development in Children …&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vaishnavy Puvipalan</dc:creator><pubDate>Mon, 09 Jun 2025 00:00:00 -0400</pubDate><guid isPermaLink="false">tag:None,2025-06-09:./horizontal-decalage-piaget.html</guid><category>Term</category><category>"Term"</category></item><item><title>Hulling</title><link>./hulling.html</link><description>&lt;h1&gt;Hulling&lt;/h1&gt;
 &lt;p&gt;For a hundred years I had lain&lt;br&gt;
 in the bedrock&lt;br&gt;
 heavy, penitent, waiting.&lt;br&gt;
@@ -10,7 +98,15 @@ numb, untouched.  &lt;/p&gt;
 &lt;p&gt;Then, springtime comes,
 looks on me and
 there have been a thousand springtimes.
-Still …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vaishnavy Puvipalan</dc:creator><pubDate>Mon, 09 Jun 2025 00:00:00 -0400</pubDate><guid isPermaLink="false">tag:None,2025-06-09:./hulling.html</guid><category>Writing</category><category>"Writing"</category></item><item><title>Note Flow</title><link>./note-flow.html</link><description>&lt;h1&gt;Note Flow&lt;/h1&gt;
+Still …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vaishnavy Puvipalan</dc:creator><pubDate>Mon, 09 Jun 2025 00:00:00 -0400</pubDate><guid isPermaLink="false">tag:None,2025-06-09:./hulling.html</guid><category>Writing</category><category>"Writing"</category></item><item><title>information-processing theory</title><link>./information-processing-theory.html</link><description>&lt;h1&gt;information-processing theory&lt;/h1&gt;
+&lt;h1&gt;Term&lt;/h1&gt;
+&lt;dl&gt;
+&lt;dt&gt;information processing theory&lt;/dt&gt;
+&lt;dd&gt;a perspective that figures human cognition as analogous to computational analysis of data, consisting of sensory input, connections, memory storage, and ouput &lt;span data-citationItems="[&amp;quot;bergerDevelopingPersonChildhood2023&amp;quot;]" id="PAR1"&gt;&lt;/span&gt;&lt;/dd&gt;
+&lt;dd&gt;emphasizes processes of thought in contrast to the Piagetian focus on responses &lt;span data-citationItems="[&amp;quot;bergerDevelopingPersonChildhood2023&amp;quot;]" id="PAR2"&gt;&lt;/span&gt;^[1]&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;hr&gt;
+&lt;p&gt;[^1]: but Piaget also offered a theory that is …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vaishnavy Puvipalan</dc:creator><pubDate>Mon, 09 Jun 2025 00:00:00 -0400</pubDate><guid isPermaLink="false">tag:None,2025-06-09:./information-processing-theory.html</guid><category>Term</category><category>"Term"</category></item><item><title>Note Flow</title><link>./note-flow.html</link><description>&lt;h1&gt;Note Flow&lt;/h1&gt;
 &lt;h1&gt;Fleeting&lt;/h1&gt;
 &lt;h3&gt;Literature Notes&lt;/h3&gt;
 &lt;ul&gt;
@@ -29,34 +125,40 @@ Still …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elemen
 &lt;h3&gt;Figures&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;table or mermaid diagram for frameworks that can be visualized&lt;/li&gt;
-&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vaishnavy Puvipalan</dc:creator><pubDate>Mon, 09 Jun 2025 00:00:00 -0400</pubDate><guid isPermaLink="false">tag:None,2025-06-09:./note-flow.html</guid><category>Fleeting</category><category>"Fleeting"</category></item><item><title>Piaget Notes</title><link>./piaget-notes.html</link><description>&lt;h1&gt;Piaget Notes&lt;/h1&gt;
-&lt;h1&gt;Fleeting&lt;/h1&gt;
-&lt;h2&gt;Lit Notes&lt;/h2&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vaishnavy Puvipalan</dc:creator><pubDate>Mon, 09 Jun 2025 00:00:00 -0400</pubDate><guid isPermaLink="false">tag:None,2025-06-09:./piaget-notes.html</guid><category>Fleeting</category><category>"Fleeting"</category></item><item><title>Stages of Cognitive Development in Children (Piaget)</title><link>./stages-of-cognitive-development-in-children-piaget.html</link><description>&lt;h1&gt;Stages of Cognitive Development in Children (Piaget)&lt;/h1&gt;
-&lt;h1&gt;Theory&lt;/h1&gt;
-&lt;hr&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vaishnavy Puvipalan</dc:creator><pubDate>Mon, 09 Jun 2025 00:00:00 -0400</pubDate><guid isPermaLink="false">tag:None,2025-06-09:./note-flow.html</guid><category>Fleeting</category><category>"Fleeting"</category></item><item><title>seriation (Piaget)</title><link>./seriation-piaget.html</link><description>&lt;h1&gt;seriation (Piaget)&lt;/h1&gt;
+&lt;h6&gt;#Term&lt;/h6&gt;
 &lt;dl&gt;
-&lt;dt&gt;operation&lt;/dt&gt;
-&lt;dd&gt;an interiorized action; a logical structure which marks the essence of knowledge according Piaget&lt;/dd&gt;
-&lt;dd&gt;mental representation or construction of an object as a thing that can be manipulated&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;ol&gt;
-&lt;li&gt;sensorimotor stage (0-18 mos.)&lt;ol&gt;
-&lt;li&gt;object permanence&lt;/li&gt;
-&lt;li&gt;practical space&lt;/li&gt;
-&lt;li&gt;temporal succession&lt;/li&gt;
-&lt;li&gt;no operations yet …&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;&lt;/ol&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vaishnavy Puvipalan</dc:creator><pubDate>Mon, 09 Jun 2025 00:00:00 -0400</pubDate><guid isPermaLink="false">tag:None,2025-06-09:./stages-of-cognitive-development-in-children-piaget.html</guid><category>Theory</category><category>"Theory"</category></item><item><title>pluralistic ignorance</title><link>./pluralistic-ignorance.html</link><description>&lt;h1&gt;pluralistic ignorance&lt;/h1&gt;
+&lt;dt&gt;seriation&lt;/dt&gt;
+&lt;dd&gt;the concept that things can be arranged in a logical series, such as the number sequence or the alphabet &lt;span data-citationItems="[&amp;quot;bergerDevelopingPersonChildhood2023&amp;quot;]" id="PAR1"&gt;&lt;/span&gt;&lt;/dd&gt;
+&lt;dd&gt;critical for mathematics&lt;/dd&gt;
+&lt;/dl&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vaishnavy Puvipalan</dc:creator><pubDate>Mon, 09 Jun 2025 00:00:00 -0400</pubDate><guid isPermaLink="false">tag:None,2025-06-09:./seriation-piaget.html</guid><category>Term</category><category>"Term"</category></item><item><title>To-Do</title><link>./to-do.html</link><description>&lt;h1&gt;To-Do&lt;/h1&gt;
+&lt;h1&gt;Fleeting&lt;/h1&gt;
+&lt;p&gt;Midterm
+- [ ] Piaget
+    - [x] &lt;a href="cognitive-development-in-children.html"&gt;"Cognitive Development in Children"&lt;/a&gt;
+    - [ ] Textbook
+        - [ ] Theories
+        - [ ] Middle Childhood: Cognition
+        - [ ] Early Childhood: Cognition
+    - [ ] Lecture
+        - [ ] Theories
+        - [ ] Early Childhood: Cognition
+        - [ ] Middle Childhood: Cognition&lt;/p&gt;
+&lt;p&gt;Final
+- [ ] Cognitive
+- [ ] Psychoanalytic
+- [ ] Parenting
+- [ ] Sociocultural
+- [ ] Height
+- [ ] Weight
+- [ ] Executive Functions
+- [ ] Language&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vaishnavy Puvipalan</dc:creator><pubDate>Mon, 09 Jun 2025 00:00:00 -0400</pubDate><guid isPermaLink="false">tag:None,2025-06-09:./to-do.html</guid><category>Fleeting</category><category>"Fleeting"</category></item><item><title>pluralistic ignorance</title><link>./pluralistic-ignorance.html</link><description>&lt;h1&gt;pluralistic ignorance&lt;/h1&gt;
 &lt;h1&gt;Word&lt;/h1&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vaishnavy Puvipalan</dc:creator><pubDate>Fri, 06 Jun 2025 00:00:00 -0400</pubDate><guid isPermaLink="false">tag:None,2025-06-06:./pluralistic-ignorance.html</guid><category>Word</category><category>"Word"</category></item><item><title>remediate</title><link>./remediate.html</link><description>&lt;h1&gt;remediate&lt;/h1&gt;
 &lt;h1&gt;Word&lt;/h1&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vaishnavy Puvipalan</dc:creator><pubDate>Fri, 06 Jun 2025 00:00:00 -0400</pubDate><guid isPermaLink="false">tag:None,2025-06-06:./remediate.html</guid><category>Word</category><category>"Word"</category></item><item><title>senesence</title><link>./senesence.html</link><description>&lt;h1&gt;senesence&lt;/h1&gt;
 &lt;h1&gt;Word&lt;/h1&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vaishnavy Puvipalan</dc:creator><pubDate>Fri, 06 Jun 2025 00:00:00 -0400</pubDate><guid isPermaLink="false">tag:None,2025-06-06:./senesence.html</guid><category>Word</category><category>"Word"</category></item><item><title>You Will Never Graduate Lmao</title><link>./you-will-never-graduate-lmao.html</link><description>&lt;h1&gt;You Will Never Graduate Lmao&lt;/h1&gt;
 &lt;h1&gt;Index&lt;/h1&gt;
 &lt;h2&gt;PSY-SPEC Program Requirements&lt;/h2&gt;
-&lt;p&gt;
-&lt;div class="progress progress-20plus"&gt;
-&lt;div class="progress-bar" style="width:32.00%"&gt;
-&lt;p class="progress-label"&gt;8/25&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/p&gt;
+&lt;p&gt;[=8/25 "8/25"]&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;12.5 CR (25 courses)&lt;ul&gt;
 &lt;li&gt;3.0 CR (6 courses) C/D-level&lt;/li&gt;
@@ -69,17 +171,8 @@ Still …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elemen
 &lt;li class="task-list-item"&gt;&lt;input type="checkbox" disabled checked/&gt; PSYA01*  &lt;/li&gt;
 &lt;li class="task-list-item"&gt;&lt;input type="checkbox" disabled checked/&gt; PSYA02*  &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;
-&lt;div class="progress progress-0plus"&gt;
-&lt;div class="progress-bar" style="width:8.00%"&gt;
-&lt;p class="progress-label"&gt;Total: 2/25&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Laboratory Methods&lt;/strong&gt;(1.5 CR, 3 courses)  &lt;/p&gt;
-&lt;ul class="task-list"&gt;
-&lt;li class="task-list-item"&gt;&lt;input type="checkbox" disabled checked/&gt; PSYB70*  &lt;/li&gt;
-&lt;li class="task-list-item"&gt;&lt;input type="checkbox" disabled checked/&gt; PSYC70 …&lt;/li&gt;&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vaishnavy Puvipalan</dc:creator><pubDate>Fri, 06 Jun 2025 00:00:00 -0400</pubDate><guid isPermaLink="false">tag:None,2025-06-06:./you-will-never-graduate-lmao.html</guid><category>Index</category><category>"Index"</category></item><item><title>arriviste</title><link>./arriviste.html</link><description>&lt;h1&gt;arriviste&lt;/h1&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vaishnavy Puvipalan</dc:creator><pubDate>Thu, 05 Jun 2025 00:00:00 -0400</pubDate><guid isPermaLink="false">tag:None,2025-06-05:./arriviste.html</guid><category>Word</category><category>"Word"</category></item><item><title>Interpersonal Relationships Paper</title><link>./interpersonal-relationships-paper.html</link><description>&lt;h1&gt;Interpersonal Relationships Paper: The Female Dating Strategy&lt;/h1&gt;
+&lt;p&gt;[=2/25 "Total: 2/25"]&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Laboratory Methods&lt;/strong&gt;(1.5 CR …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vaishnavy Puvipalan</dc:creator><pubDate>Fri, 06 Jun 2025 00:00:00 -0400</pubDate><guid isPermaLink="false">tag:None,2025-06-06:./you-will-never-graduate-lmao.html</guid><category>Index</category><category>"Index"</category></item><item><title>arriviste</title><link>./arriviste.html</link><description>&lt;h1&gt;arriviste&lt;/h1&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vaishnavy Puvipalan</dc:creator><pubDate>Thu, 05 Jun 2025 00:00:00 -0400</pubDate><guid isPermaLink="false">tag:None,2025-06-05:./arriviste.html</guid><category>Word</category><category>"Word"</category></item><item><title>Interpersonal Relationships Paper</title><link>./interpersonal-relationships-paper.html</link><description>&lt;h1&gt;Interpersonal Relationships Paper: The Female Dating Strategy&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Paper should be critiquing pop psych dating advice&lt;/li&gt;
 &lt;li&gt;FDS is an interesting angle because we're inundated with redpill/manosphere content (in psych too, lots of papers about incels) but their distaff counterparts are understudied&lt;/li&gt;

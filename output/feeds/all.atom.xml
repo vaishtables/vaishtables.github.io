@@ -1,5 +1,328 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Fragments</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2025-06-09T00:00:00-04:00</updated><entry><title>Hulling</title><link href="./hulling.html" rel="alternate"></link><published>2025-06-09T00:00:00-04:00</published><updated>2025-06-09T00:00:00-04:00</updated><author><name>Vaishnavy Puvipalan</name></author><id>tag:None,2025-06-09:./hulling.html</id><summary type="html">&lt;h1&gt;Hulling&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Fragments</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2025-06-10T00:00:00-04:00</updated><entry><title>Development of Cognitive Operations (Piaget)</title><link href="./development-of-cognitive-operations-piaget.html" rel="alternate"></link><published>2025-06-10T00:00:00-04:00</published><updated>2025-06-10T00:00:00-04:00</updated><author><name>Vaishnavy Puvipalan</name></author><id>tag:None,2025-06-10:./development-of-cognitive-operations-piaget.html</id><summary type="html">&lt;h1&gt;Development of Cognitive Operations (Piaget)&lt;/h1&gt;
+&lt;p&gt;Add&lt;br&gt;
+- [ ] conservation failure/emergence
+    - [ ] types of conservation
+- [ ] classification failure/emergence
+- [ ] transductive reasoning (until age 7)
+- [ ] conservation failure/emergence
+    - [ ] varieties and order them (substance precedes volume &amp;amp; weight)
+- [ ] egocentrism (diminishes by age 8)
+- [ ] centration/decentration
+- [ ] perseveration
+- [ ] animism (ends age 3)
+- [ ] inductive reasoning
+- [ ] irreversibility/reversibility&lt;/p&gt;
+&lt;pre class="mermaid"&gt;
+gantt
+dateFormat YY-MM …&lt;/pre&gt;</summary><content type="html">&lt;h1&gt;Development of Cognitive Operations (Piaget)&lt;/h1&gt;
+&lt;p&gt;Add&lt;br&gt;
+- [ ] conservation failure/emergence
+    - [ ] types of conservation
+- [ ] classification failure/emergence
+- [ ] transductive reasoning (until age 7)
+- [ ] conservation failure/emergence
+    - [ ] varieties and order them (substance precedes volume &amp;amp; weight)
+- [ ] egocentrism (diminishes by age 8)
+- [ ] centration/decentration
+- [ ] perseveration
+- [ ] animism (ends age 3)
+- [ ] inductive reasoning
+- [ ] irreversibility/reversibility&lt;/p&gt;
+&lt;pre class="mermaid"&gt;
+gantt
+dateFormat YY-MM
+axisFormat %y%m
+tickInterval 6month
+todayMarker off
+
+section sensorimotor (0-2 yrs.)
+substage 1 (reflexes - sucking, gaze, palmer grasp) : 00-01, 1M
+substage 2 (primary circular reactions - repetitive actions w/ self) : 3M
+substage 3 (secondary circular reactions - repetitive actions w/ objects) : 4M
+substage 4 (coordination of secondary circular reactions) : 4M
+substage 5 (tertiary circular reactions - experimentation) : 6M
+substage 6 (transition) : 6M
+beginning representational thought : 02-01
+intentional grasping : milestone, 00-02, 0d
+object permanence : milestone, 00-08, 0d
+trial-and-error, causality : milestone, 01-01, 0d
+
+section preoperational (2-7 yrs.)
+symbolic function substage (perception) : 02-01, 2y
+intuitve thought substage : 3y
+language : 02-01, 5y
+pretend play : 02-01, 5y
+
+section formal operational (7-11 yrs.)
+&lt;/pre&gt;
+&lt;footer&gt;&lt;/footer&gt;
+
+&lt;hr&gt;
+&lt;h1&gt;Theory&lt;/h1&gt;</content><category term="Theory"></category><category term='"Theory"'></category></entry><entry><title>operation (Piaget)</title><link href="./operation-piaget.html" rel="alternate"></link><published>2025-06-10T00:00:00-04:00</published><updated>2025-06-10T00:00:00-04:00</updated><author><name>Vaishnavy Puvipalan</name></author><id>tag:None,2025-06-10:./operation-piaget.html</id><content type="html">&lt;h1&gt;operation (Piaget)&lt;/h1&gt;
+&lt;dl&gt;
+&lt;dt&gt;operation&lt;/dt&gt;
+&lt;dd&gt;logical manipulation of information &lt;span data-citationItems="[&amp;quot;lally48CognitiveDevelopment2021&amp;quot;]" id="PAR1"&gt;&lt;/span&gt;&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;footer&gt;&lt;/footer&gt;
+&lt;hr&gt;
+&lt;p&gt;#Term&lt;/p&gt;</content><category term="Term"></category><category term='"Term"'></category></entry><entry><title>transductive reasoning (Piaget)</title><link href="./transductive-reasoning-piaget.html" rel="alternate"></link><published>2025-06-10T00:00:00-04:00</published><updated>2025-06-10T00:00:00-04:00</updated><author><name>Vaishnavy Puvipalan</name></author><id>tag:None,2025-06-10:./transductive-reasoning-piaget.html</id><summary type="html">&lt;h1&gt;transductive reasoning (Piaget)&lt;/h1&gt;
+&lt;dl&gt;
+&lt;dt&gt;transductive reasoning&lt;/dt&gt;
+&lt;dd&gt;making faulty inferences from one specific example to another &lt;span data-citationItems="[&amp;quot;lally48CognitiveDevelopment2021&amp;quot;]" id="PAR1"&gt;&lt;/span&gt;&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;hr&gt;
+&lt;h3&gt;Examples&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Lucienne Piaget&lt;/strong&gt;: "It's not afternoon because I haven't had my nap yet!"  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Piaget&lt;/strong&gt;: "Are there more daisies or flowers?"&lt;br&gt;
+&lt;strong&gt;Subject (age 7)&lt;/strong&gt;: "More daisies."  &lt;/p&gt;
+&lt;h3&gt;Notes &amp;amp; Links&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;overgeneralization&lt;ul&gt;
+&lt;li&gt;see &lt;a href="cognitive-development-in-children.html"&gt;"Cognitive Development in Children"&lt;/a&gt; for 'generalization'&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="development-of-cognitive-operations-piaget.html"&gt;Development …&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h1&gt;transductive reasoning (Piaget)&lt;/h1&gt;
+&lt;dl&gt;
+&lt;dt&gt;transductive reasoning&lt;/dt&gt;
+&lt;dd&gt;making faulty inferences from one specific example to another &lt;span data-citationItems="[&amp;quot;lally48CognitiveDevelopment2021&amp;quot;]" id="PAR1"&gt;&lt;/span&gt;&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;hr&gt;
+&lt;h3&gt;Examples&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Lucienne Piaget&lt;/strong&gt;: "It's not afternoon because I haven't had my nap yet!"  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Piaget&lt;/strong&gt;: "Are there more daisies or flowers?"&lt;br&gt;
+&lt;strong&gt;Subject (age 7)&lt;/strong&gt;: "More daisies."  &lt;/p&gt;
+&lt;h3&gt;Notes &amp;amp; Links&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;overgeneralization&lt;ul&gt;
+&lt;li&gt;see &lt;a href="cognitive-development-in-children.html"&gt;"Cognitive Development in Children"&lt;/a&gt; for 'generalization'&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="development-of-cognitive-operations-piaget.html"&gt;Development of Cognitive Operations (Piaget)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;#Word
+&lt;/p&gt;</content><category term="Term"></category><category term='"Term"'></category></entry><entry><title>accommodation (Piaget)</title><link href="./accommodation-piaget.html" rel="alternate"></link><published>2025-06-09T00:00:00-04:00</published><updated>2025-06-09T00:00:00-04:00</updated><author><name>Vaishnavy Puvipalan</name></author><id>tag:None,2025-06-09:./accommodation-piaget.html</id><content type="html">&lt;h1&gt;accommodation (Piaget)&lt;/h1&gt;
+&lt;dl&gt;
+&lt;dt&gt;accommodation&lt;/dt&gt;
+&lt;dd&gt;the restructuring of old ideas to include new experiences &lt;span data-citationItems="[&amp;quot;bergerDevelopingPersonChildhood2023&amp;quot;]" id="PAR1"&gt;&lt;/span&gt;&lt;/dd&gt;
+&lt;dd&gt;construction of new logical operations &lt;span data-citationItems="[&amp;quot;piagetPartCognitiveDevelopment1964&amp;quot;]" id="PAR2"&gt;&lt;/span&gt;&lt;/dd&gt;
+&lt;dd&gt;inverse of  &lt;a href="assimilation-piaget.html"&gt;assimilation (Piaget)&lt;/a&gt;&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;footer&gt;&lt;/footer&gt;
+&lt;hr&gt;
+&lt;h1&gt;Term&lt;/h1&gt;</content><category term="Term"></category><category term='"Term"'></category></entry><entry><title>assimilation (Piaget)</title><link href="./assimilation-piaget.html" rel="alternate"></link><published>2025-06-09T00:00:00-04:00</published><updated>2025-06-09T00:00:00-04:00</updated><author><name>Vaishnavy Puvipalan</name></author><id>tag:None,2025-06-09:./assimilation-piaget.html</id><content type="html">&lt;h1&gt;assimilation (Piaget)&lt;/h1&gt;
+&lt;dl&gt;
+&lt;dt&gt;assimilation&lt;/dt&gt;
+&lt;dd&gt;reinterpretation of new experiences to fit into old ideas &lt;span data-citationItems="[&amp;quot;bergerDevelopingPersonChildhood2023&amp;quot;]" id="PAR1"&gt;&lt;/span&gt;&lt;/dd&gt;
+&lt;dd&gt;integrating stimuli into extant knowledge structures &lt;span data-citationItems="[&amp;quot;piagetPartCognitiveDevelopment1964&amp;quot;]" id="PAR2"&gt;&lt;/span&gt;&lt;/dd&gt;
+&lt;dd&gt;inverse of &lt;a href="accommodation-piaget.html"&gt;accommodation (Piaget)&lt;/a&gt;&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;footer&gt;&lt;/footer&gt;
+&lt;hr&gt;
+&lt;p&gt;#Term&lt;/p&gt;</content><category term="Term"></category><category term='"Term"'></category></entry><entry><title>classification (Piaget)</title><link href="./classification-piaget.html" rel="alternate"></link><published>2025-06-09T00:00:00-04:00</published><updated>2025-06-09T00:00:00-04:00</updated><author><name>Vaishnavy Puvipalan</name></author><id>tag:None,2025-06-09:./classification-piaget.html</id><summary type="html">&lt;h1&gt;classification (Piaget)&lt;/h1&gt;
+&lt;dl&gt;
+&lt;dt&gt;classification&lt;/dt&gt;
+&lt;dd&gt;the logical operation that things can be organized into groups or categories or classes according to some common characteristic &lt;span data-citationItems="[&amp;quot;bergerDevelopingPersonChildhood2023&amp;quot;]" id="PAR1"&gt;&lt;/span&gt;[^1]&lt;/dd&gt;
+&lt;dd&gt;typically acquired by 8 yrs., during the concrete operational stage
+[^1]: Piaget references the "daisy vs. flower" example to illustrate how understanding of nested hierarchies is developed …&lt;/dd&gt;&lt;/dl&gt;</summary><content type="html">&lt;h1&gt;classification (Piaget)&lt;/h1&gt;
+&lt;dl&gt;
+&lt;dt&gt;classification&lt;/dt&gt;
+&lt;dd&gt;the logical operation that things can be organized into groups or categories or classes according to some common characteristic &lt;span data-citationItems="[&amp;quot;bergerDevelopingPersonChildhood2023&amp;quot;]" id="PAR1"&gt;&lt;/span&gt;[^1]&lt;/dd&gt;
+&lt;dd&gt;typically acquired by 8 yrs., during the concrete operational stage
+[^1]: Piaget references the "daisy vs. flower" example to illustrate how understanding of nested hierarchies is developed &lt;a href="cognitive-development-in-children.html"&gt;"Cognitive Development in Children"&lt;/a&gt;&lt;/dd&gt;
+&lt;/dl&gt;</content><category term="Term"></category><category term='"Term"'></category></entry><entry><title>"Cognitive Development in Children"</title><link href="./cognitive-development-in-children.html" rel="alternate"></link><published>2025-06-09T00:00:00-04:00</published><updated>2025-06-09T00:00:00-04:00</updated><author><name>Jean Piaget</name></author><id>tag:None,2025-06-09:./cognitive-development-in-children.html</id><summary type="html">&lt;h1&gt;"Cognitive Development in Children"&lt;/h1&gt;
+&lt;p&gt;&lt;span data-citationItems="[&amp;quot;piagetPartCognitiveDevelopment1964&amp;quot;]" id="PAR1"&gt;&lt;/span&gt;
+- distinguishes between "the problem of development in general and the problem of learning" (p. 176)
+    - development of knowledge is tied to embryogenesis
+        - spontaneous, emergent, innate
+    - development of leaning is adaptive&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;on operations:&lt;blockquote&gt;
+&lt;p&gt;"To understand the development of knowledge, we must start with an idea which is …&lt;/p&gt;&lt;/blockquote&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h1&gt;"Cognitive Development in Children"&lt;/h1&gt;
+&lt;p&gt;&lt;span data-citationItems="[&amp;quot;piagetPartCognitiveDevelopment1964&amp;quot;]" id="PAR1"&gt;&lt;/span&gt;
+- distinguishes between "the problem of development in general and the problem of learning" (p. 176)
+    - development of knowledge is tied to embryogenesis
+        - spontaneous, emergent, innate
+    - development of leaning is adaptive&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;on operations:&lt;blockquote&gt;
+&lt;p&gt;"To understand the development of knowledge, we must start with an idea which is central to-the idea of an operation. Knowledge is not a copy of reality. To know an object, to know an event, is not sirnply to look at it and make a inental copy or image of it. To know an object is to act on it. To know is to modify, to transform the object, and to understand the process of this transformation, and as a consequence to understand the way the object is constructed. An operation is thus the essence of knowledge; it is an interiorized action which modifies the object of knowledge...in addition, it is a reversible action; that is, it can take place in both directions, for instance, adding or subtracting, joining or separating...Above all, an operation is never isolated. It is always linked to other operations, and as a result it is always a part of a total structure."&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;(p. 176-177)&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;outlines cognitive stages briefly&lt;ol&gt;
+&lt;li&gt;sensorimotor stage&lt;ul&gt;
+&lt;li&gt;0-18 mos. (1.5 yrs.)&lt;/li&gt;
+&lt;li&gt;practical knowledge is developed, substructures which serve as precursors to representational knowledge&lt;ul&gt;
+&lt;li&gt;object permanence&lt;/li&gt;
+&lt;li&gt;practical space&lt;/li&gt;
+&lt;li&gt;temporal succession&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;preoperational stage&lt;ul&gt;
+&lt;li&gt;representational thought is developed, substructures which serve as precursors to operations&lt;ul&gt;
+&lt;li&gt;symbolic function
+ conservation is not yet developed, precluding reversible operations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;concrete operational stage&lt;ul&gt;
+&lt;li&gt;first operations are developed but are only conducted on objects
+        - classification
+        - ordering
+        - number
+        - spatial
+        - temporal
+        - elementary logic, mathematics, geometry, physics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;formal operational stage
+        - development of hypothetic-deuctive operations
+            - may construct new operations
+            - propositional logic
+            - combinatorial structures
+            - complicated group structures
+        - builds on concrete operations
+            - classification by successive inclusions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;four factors facilitating development of knowledge (i.e., acquisition of structures)&lt;ol&gt;
+&lt;li&gt;maturation&lt;ul&gt;
+&lt;li&gt;development of knowledge cannot be entirely attributed to the interior changes of the nervous system&lt;/li&gt;
+&lt;li&gt;the chronological ages at which the operational stages develop vary cross-culturally although the sequence is preservered&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;experience&lt;ul&gt;
+&lt;li&gt;practice navigating the physical world is also not enough to explain development of knowledge&lt;ul&gt;
+&lt;li&gt;at 8yrs., a child begins to conserve&lt;ul&gt;
+&lt;li&gt;first exhibits conservation of substance, then weight, then volume &lt;a href="horizontal-decalage-piaget.html"&gt;horizontal decalage (Piaget)&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;conservation of substance (amount) is exhibited although it cannot be learned from experience and despite lacking conservation of weight and volume&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;distinguishes two kinds of experience&lt;/li&gt;
+&lt;li&gt;practical (pertains to learning properties of objects)&lt;/li&gt;
+&lt;li&gt;logical-mathematical (pertains to learning properties of actions)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;social transmission&lt;ol&gt;
+&lt;li&gt;linguistic or educational&lt;ol&gt;
+&lt;li&gt;insufficient for provoking knowledge if a child lacks the capacity for symbolic function which is need to receive this information&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;equilibration &lt;a href="cognitive-equilibrium-piaget.html"&gt;cognitive equilibrium (Piaget)&lt;/a&gt;&lt;ol&gt;
+&lt;li&gt;reflected by displaying compensation, a critical cognitive factor that enables operational reversibility&lt;ol&gt;
+&lt;li&gt;understanding an object that is transformed in one direction is necessarily also transformed in the other direction&lt;/li&gt;
+&lt;li&gt;resolution of inconsistencies, imbalance, dissonance; absence of confusion&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;on equilibration and information-processing theory:&lt;blockquote&gt;
+&lt;p&gt;“Equilibration, as I understand it, is thus an active process. It is a process of self-regulation. I think that this self-regulation is a fundamental factor in development. I use this term in the sense in which it is used in cybernetics, that is, in the sense of processes with feedback and with feedforward, of processes which regulate theniselves by a progressive compensation of systems. ”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;(p.181)&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;rejects the stimulus-response schema of cognition as the response precedes the stimulus&lt;ul&gt;
+&lt;li&gt;unless the subject possesses a structure that may receive and integrate the signal, an object cannot be a stimulus&lt;ul&gt;
+&lt;li&gt;follows from the view of development of knowledge as emergent&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;illustrates with example of colleague's study of children acquiring conservation of weight vs. transitivity of weight&lt;ul&gt;
+&lt;li&gt;succesfully reinforced the former as it can be learned through practical experience&lt;/li&gt;
+&lt;li&gt;failed to reinforce the latter as logical-mathematical experience cannot be transmitted in this fashion, unless the prequisite structures are available&lt;/li&gt;
+&lt;li&gt;thus, no correlation between experimenter reinforcement and subject knowledge of transitivity&lt;ul&gt;
+&lt;li&gt;the opposite for conservation&lt;ul&gt;
+&lt;li&gt;however conservation of number can be learned, that is, its acquisition can be accelerated after 4 yrs.&lt;ul&gt;
+&lt;li&gt;at 5-5.5 yrs. children can generalize for objects outside of perception if trained using their own actions via additive operations&lt;ul&gt;
+&lt;li&gt;capable of recursive reasoning&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;relationship between stimulus and response is not merely one of association but of, fundamentally, assimilation &lt;a href="assimilation-piaget.html"&gt;assimilation (Piaget)&lt;/a&gt;&lt;blockquote&gt;
+&lt;p&gt;Assimilation is not the same as association. I shall define assimilation as the integration of any sort of reality into a structure, and it is this assimilation which seems to me to be fundamental in learning, and which seems to me to be the fundamental relation from the point of view of pedagogical or didactic applications.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;(p. 185)&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;emphasizes that learning is an active process&lt;/li&gt;
+&lt;li&gt;draws connection to Hull's theories&lt;ul&gt;
+&lt;li&gt;transformation responses = operations&lt;/li&gt;
+&lt;li&gt;internal reinforcements = equilibration
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Literature"></category><category term='"Literature"'></category></entry><entry><title>cognitive equilibrium (Piaget)</title><link href="./cognitive-equilibrium-piaget.html" rel="alternate"></link><published>2025-06-09T00:00:00-04:00</published><updated>2025-06-09T00:00:00-04:00</updated><author><name>Vaishnavy Puvipalan</name></author><id>tag:None,2025-06-09:./cognitive-equilibrium-piaget.html</id><content type="html">&lt;h1&gt;cognitive equilibrium (Piaget)&lt;/h1&gt;
+&lt;h1&gt;Term&lt;/h1&gt;
+&lt;dl&gt;
+&lt;dt&gt;cognitive equilibrium&lt;/dt&gt;
+&lt;dd&gt;in cognitive theory, a state of mental balance in which people are not confused because they can use their existing thought processes to understand current experiences and ideas &lt;span data-citationItems="[&amp;quot;bergerDevelopingPersonChildhood2023&amp;quot;]" id="PAR1"&gt;&lt;/span&gt;&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href="cognitive-development-in-children.html"&gt;"Cognitive Development in Children"&lt;/a&gt;&lt;/p&gt;</content><category term="Term"></category><category term='"Term"'></category></entry><entry><title>cognitive theory</title><link href="./cognitive-theory.html" rel="alternate"></link><published>2025-06-09T00:00:00-04:00</published><updated>2025-06-09T00:00:00-04:00</updated><author><name>Vaishnavy Puvipalan</name></author><id>tag:None,2025-06-09:./cognitive-theory.html</id><content type="html">&lt;h1&gt;cognitive theory&lt;/h1&gt;
+&lt;h1&gt;Term&lt;/h1&gt;
+&lt;dl&gt;
+&lt;dt&gt;cognitive theory&lt;/dt&gt;
+&lt;dd&gt;a grand theory of human development that focuses on changes in how people think over time&lt;/dd&gt;
+&lt;dd&gt;according to this theory, our thoughts shape our attitudes, beliefs and behaviours &lt;span data-citationItems="[&amp;quot;bergerDevelopingPersonChildhood2023&amp;quot;]" id="PAR1"&gt;&lt;/span&gt;&lt;/dd&gt;
+&lt;/dl&gt;</content><category term="Term"></category><category term='"Term"'></category></entry><entry><title>educable</title><link href="./educable.html" rel="alternate"></link><published>2025-06-09T00:00:00-04:00</published><updated>2025-06-09T00:00:00-04:00</updated><author><name>Vaishnavy Puvipalan</name></author><id>tag:None,2025-06-09:./educable.html</id><content type="html">&lt;h1&gt;educable&lt;/h1&gt;
+&lt;h1&gt;Word&lt;/h1&gt;
+&lt;dl&gt;
+&lt;dt&gt;educable&lt;/dt&gt;
+&lt;dd&gt;capable of being educated&lt;/dd&gt;
+&lt;/dl&gt;</content><category term="Word"></category><category term='"Word"'></category></entry><entry><title>horizontal decalage (Piaget)</title><link href="./horizontal-decalage-piaget.html" rel="alternate"></link><published>2025-06-09T00:00:00-04:00</published><updated>2025-06-09T00:00:00-04:00</updated><author><name>Vaishnavy Puvipalan</name></author><id>tag:None,2025-06-09:./horizontal-decalage-piaget.html</id><summary type="html">&lt;h1&gt;horizontal decalage (Piaget)&lt;/h1&gt;
+&lt;h1&gt;Term&lt;/h1&gt;
+&lt;dl&gt;
+&lt;dt&gt;horizontal decalage&lt;/dt&gt;
+&lt;dd&gt;the idea that at each level certain concepts appear in sequence over months or even years &lt;span data-citationItems="[&amp;quot;bergerDevelopingPersonChildhood2023&amp;quot;]" id="PAR1"&gt;&lt;/span&gt;&lt;/dd&gt;
+&lt;dd&gt;stages of knowledge development are sequential and discrete[^1]&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;hr&gt;
+&lt;p&gt;[^1]: the acquisition of conservation of weight and volume build on the conservation of substance &lt;a href="cognitive-development-in-children.html"&gt;"Cognitive Development in Children …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;h1&gt;horizontal decalage (Piaget)&lt;/h1&gt;
+&lt;h1&gt;Term&lt;/h1&gt;
+&lt;dl&gt;
+&lt;dt&gt;horizontal decalage&lt;/dt&gt;
+&lt;dd&gt;the idea that at each level certain concepts appear in sequence over months or even years &lt;span data-citationItems="[&amp;quot;bergerDevelopingPersonChildhood2023&amp;quot;]" id="PAR1"&gt;&lt;/span&gt;&lt;/dd&gt;
+&lt;dd&gt;stages of knowledge development are sequential and discrete[^1]&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;hr&gt;
+&lt;p&gt;[^1]: the acquisition of conservation of weight and volume build on the conservation of substance &lt;a href="cognitive-development-in-children.html"&gt;"Cognitive Development in Children"&lt;/a&gt;&lt;/p&gt;</content><category term="Term"></category><category term='"Term"'></category></entry><entry><title>Hulling</title><link href="./hulling.html" rel="alternate"></link><published>2025-06-09T00:00:00-04:00</published><updated>2025-06-09T00:00:00-04:00</updated><author><name>Vaishnavy Puvipalan</name></author><id>tag:None,2025-06-09:./hulling.html</id><summary type="html">&lt;h1&gt;Hulling&lt;/h1&gt;
 &lt;p&gt;For a hundred years I had lain&lt;br&gt;
 in the bedrock&lt;br&gt;
 heavy, penitent, waiting.&lt;br&gt;
@@ -23,7 +346,24 @@ looks on me and
 there have been a thousand springtimes.
 Still, a warm ray is flickering on my face and I — 
 Don't dare tend to it. 
-But something is stirring. Betraying change. &lt;/p&gt;</content><category term="Writing"></category><category term='"Writing"'></category></entry><entry><title>Note Flow</title><link href="./note-flow.html" rel="alternate"></link><published>2025-06-09T00:00:00-04:00</published><updated>2025-06-09T00:00:00-04:00</updated><author><name>Vaishnavy Puvipalan</name></author><id>tag:None,2025-06-09:./note-flow.html</id><content type="html">&lt;h1&gt;Note Flow&lt;/h1&gt;
+But something is stirring. Betraying change. &lt;/p&gt;</content><category term="Writing"></category><category term='"Writing"'></category></entry><entry><title>information-processing theory</title><link href="./information-processing-theory.html" rel="alternate"></link><published>2025-06-09T00:00:00-04:00</published><updated>2025-06-09T00:00:00-04:00</updated><author><name>Vaishnavy Puvipalan</name></author><id>tag:None,2025-06-09:./information-processing-theory.html</id><summary type="html">&lt;h1&gt;information-processing theory&lt;/h1&gt;
+&lt;h1&gt;Term&lt;/h1&gt;
+&lt;dl&gt;
+&lt;dt&gt;information processing theory&lt;/dt&gt;
+&lt;dd&gt;a perspective that figures human cognition as analogous to computational analysis of data, consisting of sensory input, connections, memory storage, and ouput &lt;span data-citationItems="[&amp;quot;bergerDevelopingPersonChildhood2023&amp;quot;]" id="PAR1"&gt;&lt;/span&gt;&lt;/dd&gt;
+&lt;dd&gt;emphasizes processes of thought in contrast to the Piagetian focus on responses &lt;span data-citationItems="[&amp;quot;bergerDevelopingPersonChildhood2023&amp;quot;]" id="PAR2"&gt;&lt;/span&gt;^[1]&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;hr&gt;
+&lt;p&gt;[^1]: but Piaget also offered a theory that is …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;information-processing theory&lt;/h1&gt;
+&lt;h1&gt;Term&lt;/h1&gt;
+&lt;dl&gt;
+&lt;dt&gt;information processing theory&lt;/dt&gt;
+&lt;dd&gt;a perspective that figures human cognition as analogous to computational analysis of data, consisting of sensory input, connections, memory storage, and ouput &lt;span data-citationItems="[&amp;quot;bergerDevelopingPersonChildhood2023&amp;quot;]" id="PAR1"&gt;&lt;/span&gt;&lt;/dd&gt;
+&lt;dd&gt;emphasizes processes of thought in contrast to the Piagetian focus on responses &lt;span data-citationItems="[&amp;quot;bergerDevelopingPersonChildhood2023&amp;quot;]" id="PAR2"&gt;&lt;/span&gt;^[1]&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;hr&gt;
+&lt;p&gt;[^1]: but Piaget also offered a theory that is considered to push back against stimulus-response views of cognition and moreover, also referenced cybernetics as an analogy for reinforcement learning &lt;a href="cognitive-development-in-children.html"&gt;"Cognitive Development in Children"&lt;/a&gt;
+&lt;/p&gt;</content><category term="Term"></category><category term='"Term"'></category></entry><entry><title>Note Flow</title><link href="./note-flow.html" rel="alternate"></link><published>2025-06-09T00:00:00-04:00</published><updated>2025-06-09T00:00:00-04:00</updated><author><name>Vaishnavy Puvipalan</name></author><id>tag:None,2025-06-09:./note-flow.html</id><content type="html">&lt;h1&gt;Note Flow&lt;/h1&gt;
 &lt;h1&gt;Fleeting&lt;/h1&gt;
 &lt;h3&gt;Literature Notes&lt;/h3&gt;
 &lt;ul&gt;
@@ -42,71 +382,40 @@ But something is stirring. Betraying change. &lt;/p&gt;</content><category term=
 &lt;h3&gt;Figures&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;table or mermaid diagram for frameworks that can be visualized&lt;/li&gt;
-&lt;/ul&gt;</content><category term="Fleeting"></category><category term='"Fleeting"'></category></entry><entry><title>Piaget Notes</title><link href="./piaget-notes.html" rel="alternate"></link><published>2025-06-09T00:00:00-04:00</published><updated>2025-06-09T00:00:00-04:00</updated><author><name>Vaishnavy Puvipalan</name></author><id>tag:None,2025-06-09:./piaget-notes.html</id><content type="html">&lt;h1&gt;Piaget Notes&lt;/h1&gt;
+&lt;/ul&gt;</content><category term="Fleeting"></category><category term='"Fleeting"'></category></entry><entry><title>seriation (Piaget)</title><link href="./seriation-piaget.html" rel="alternate"></link><published>2025-06-09T00:00:00-04:00</published><updated>2025-06-09T00:00:00-04:00</updated><author><name>Vaishnavy Puvipalan</name></author><id>tag:None,2025-06-09:./seriation-piaget.html</id><content type="html">&lt;h1&gt;seriation (Piaget)&lt;/h1&gt;
+&lt;h6&gt;#Term&lt;/h6&gt;
+&lt;dl&gt;
+&lt;dt&gt;seriation&lt;/dt&gt;
+&lt;dd&gt;the concept that things can be arranged in a logical series, such as the number sequence or the alphabet &lt;span data-citationItems="[&amp;quot;bergerDevelopingPersonChildhood2023&amp;quot;]" id="PAR1"&gt;&lt;/span&gt;&lt;/dd&gt;
+&lt;dd&gt;critical for mathematics&lt;/dd&gt;
+&lt;/dl&gt;</content><category term="Term"></category><category term='"Term"'></category></entry><entry><title>To-Do</title><link href="./to-do.html" rel="alternate"></link><published>2025-06-09T00:00:00-04:00</published><updated>2025-06-09T00:00:00-04:00</updated><author><name>Vaishnavy Puvipalan</name></author><id>tag:None,2025-06-09:./to-do.html</id><content type="html">&lt;h1&gt;To-Do&lt;/h1&gt;
 &lt;h1&gt;Fleeting&lt;/h1&gt;
-&lt;h2&gt;Lit Notes&lt;/h2&gt;</content><category term="Fleeting"></category><category term='"Fleeting"'></category></entry><entry><title>Stages of Cognitive Development in Children (Piaget)</title><link href="./stages-of-cognitive-development-in-children-piaget.html" rel="alternate"></link><published>2025-06-09T00:00:00-04:00</published><updated>2025-06-09T00:00:00-04:00</updated><author><name>Vaishnavy Puvipalan</name></author><id>tag:None,2025-06-09:./stages-of-cognitive-development-in-children-piaget.html</id><summary type="html">&lt;h1&gt;Stages of Cognitive Development in Children (Piaget)&lt;/h1&gt;
-&lt;h1&gt;Theory&lt;/h1&gt;
-&lt;hr&gt;
-&lt;dl&gt;
-&lt;dt&gt;operation&lt;/dt&gt;
-&lt;dd&gt;an interiorized action; a logical structure which marks the essence of knowledge according Piaget&lt;/dd&gt;
-&lt;dd&gt;mental representation or construction of an object as a thing that can be manipulated&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;ol&gt;
-&lt;li&gt;sensorimotor stage (0-18 mos.)&lt;ol&gt;
-&lt;li&gt;object permanence&lt;/li&gt;
-&lt;li&gt;practical space&lt;/li&gt;
-&lt;li&gt;temporal succession&lt;/li&gt;
-&lt;li&gt;no operations yet …&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;&lt;/ol&gt;</summary><content type="html">&lt;h1&gt;Stages of Cognitive Development in Children (Piaget)&lt;/h1&gt;
-&lt;h1&gt;Theory&lt;/h1&gt;
-&lt;hr&gt;
-&lt;dl&gt;
-&lt;dt&gt;operation&lt;/dt&gt;
-&lt;dd&gt;an interiorized action; a logical structure which marks the essence of knowledge according Piaget&lt;/dd&gt;
-&lt;dd&gt;mental representation or construction of an object as a thing that can be manipulated&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;ol&gt;
-&lt;li&gt;sensorimotor stage (0-18 mos.)&lt;ol&gt;
-&lt;li&gt;object permanence&lt;/li&gt;
-&lt;li&gt;practical space&lt;/li&gt;
-&lt;li&gt;temporal succession&lt;/li&gt;
-&lt;li&gt;no operations yet, only practical knowledge, a substructure&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;preoperational stage&lt;ol&gt;
-&lt;li&gt;symbolic function,  representational knowledge, a substructure, follows from practical knowledge&lt;/li&gt;
-&lt;li&gt;no conservation (required for reversible operations)&lt;ol&gt;
-&lt;li&gt;list the types of conservation-based reversible operations&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;formal operational stage&lt;ol&gt;
-&lt;li&gt;classifcation&lt;/li&gt;
-&lt;li&gt;ordering&lt;/li&gt;
-&lt;li&gt;number&lt;/li&gt;
-&lt;li&gt;spatial&lt;/li&gt;
-&lt;li&gt;temporal&lt;/li&gt;
-&lt;li&gt;elementary logic of classes and relations&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;formal operational stage&lt;ol&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;/ol&gt;</content><category term="Theory"></category><category term='"Theory"'></category></entry><entry><title>pluralistic ignorance</title><link href="./pluralistic-ignorance.html" rel="alternate"></link><published>2025-06-06T00:00:00-04:00</published><updated>2025-06-06T00:00:00-04:00</updated><author><name>Vaishnavy Puvipalan</name></author><id>tag:None,2025-06-06:./pluralistic-ignorance.html</id><content type="html">&lt;h1&gt;pluralistic ignorance&lt;/h1&gt;
+&lt;p&gt;Midterm
+- [ ] Piaget
+    - [x] &lt;a href="cognitive-development-in-children.html"&gt;"Cognitive Development in Children"&lt;/a&gt;
+    - [ ] Textbook
+        - [ ] Theories
+        - [ ] Middle Childhood: Cognition
+        - [ ] Early Childhood: Cognition
+    - [ ] Lecture
+        - [ ] Theories
+        - [ ] Early Childhood: Cognition
+        - [ ] Middle Childhood: Cognition&lt;/p&gt;
+&lt;p&gt;Final
+- [ ] Cognitive
+- [ ] Psychoanalytic
+- [ ] Parenting
+- [ ] Sociocultural
+- [ ] Height
+- [ ] Weight
+- [ ] Executive Functions
+- [ ] Language&lt;/p&gt;</content><category term="Fleeting"></category><category term='"Fleeting"'></category></entry><entry><title>pluralistic ignorance</title><link href="./pluralistic-ignorance.html" rel="alternate"></link><published>2025-06-06T00:00:00-04:00</published><updated>2025-06-06T00:00:00-04:00</updated><author><name>Vaishnavy Puvipalan</name></author><id>tag:None,2025-06-06:./pluralistic-ignorance.html</id><content type="html">&lt;h1&gt;pluralistic ignorance&lt;/h1&gt;
 &lt;h1&gt;Word&lt;/h1&gt;</content><category term="Word"></category><category term='"Word"'></category></entry><entry><title>remediate</title><link href="./remediate.html" rel="alternate"></link><published>2025-06-06T00:00:00-04:00</published><updated>2025-06-06T00:00:00-04:00</updated><author><name>Vaishnavy Puvipalan</name></author><id>tag:None,2025-06-06:./remediate.html</id><content type="html">&lt;h1&gt;remediate&lt;/h1&gt;
 &lt;h1&gt;Word&lt;/h1&gt;</content><category term="Word"></category><category term='"Word"'></category></entry><entry><title>senesence</title><link href="./senesence.html" rel="alternate"></link><published>2025-06-06T00:00:00-04:00</published><updated>2025-06-06T00:00:00-04:00</updated><author><name>Vaishnavy Puvipalan</name></author><id>tag:None,2025-06-06:./senesence.html</id><content type="html">&lt;h1&gt;senesence&lt;/h1&gt;
 &lt;h1&gt;Word&lt;/h1&gt;</content><category term="Word"></category><category term='"Word"'></category></entry><entry><title>You Will Never Graduate Lmao</title><link href="./you-will-never-graduate-lmao.html" rel="alternate"></link><published>2025-06-06T00:00:00-04:00</published><updated>2025-06-06T00:00:00-04:00</updated><author><name>Vaishnavy Puvipalan</name></author><id>tag:None,2025-06-06:./you-will-never-graduate-lmao.html</id><summary type="html">&lt;h1&gt;You Will Never Graduate Lmao&lt;/h1&gt;
 &lt;h1&gt;Index&lt;/h1&gt;
 &lt;h2&gt;PSY-SPEC Program Requirements&lt;/h2&gt;
-&lt;p&gt;
-&lt;div class="progress progress-20plus"&gt;
-&lt;div class="progress-bar" style="width:32.00%"&gt;
-&lt;p class="progress-label"&gt;8/25&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/p&gt;
+&lt;p&gt;[=8/25 "8/25"]&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;12.5 CR (25 courses)&lt;ul&gt;
 &lt;li&gt;3.0 CR (6 courses) C/D-level&lt;/li&gt;
@@ -119,26 +428,11 @@ But something is stirring. Betraying change. &lt;/p&gt;</content><category term=
 &lt;li class="task-list-item"&gt;&lt;input type="checkbox" disabled checked/&gt; PSYA01*  &lt;/li&gt;
 &lt;li class="task-list-item"&gt;&lt;input type="checkbox" disabled checked/&gt; PSYA02*  &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;
-&lt;div class="progress progress-0plus"&gt;
-&lt;div class="progress-bar" style="width:8.00%"&gt;
-&lt;p class="progress-label"&gt;Total: 2/25&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Laboratory Methods&lt;/strong&gt;(1.5 CR, 3 courses)  &lt;/p&gt;
-&lt;ul class="task-list"&gt;
-&lt;li class="task-list-item"&gt;&lt;input type="checkbox" disabled checked/&gt; PSYB70*  &lt;/li&gt;
-&lt;li class="task-list-item"&gt;&lt;input type="checkbox" disabled checked/&gt; PSYC70 …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h1&gt;You Will Never Graduate Lmao&lt;/h1&gt;
+&lt;p&gt;[=2/25 "Total: 2/25"]&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Laboratory Methods&lt;/strong&gt;(1.5 CR …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;You Will Never Graduate Lmao&lt;/h1&gt;
 &lt;h1&gt;Index&lt;/h1&gt;
 &lt;h2&gt;PSY-SPEC Program Requirements&lt;/h2&gt;
-&lt;p&gt;
-&lt;div class="progress progress-20plus"&gt;
-&lt;div class="progress-bar" style="width:32.00%"&gt;
-&lt;p class="progress-label"&gt;8/25&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/p&gt;
+&lt;p&gt;[=8/25 "8/25"]&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;12.5 CR (25 courses)&lt;ul&gt;
 &lt;li&gt;3.0 CR (6 courses) C/D-level&lt;/li&gt;
@@ -151,38 +445,20 @@ But something is stirring. Betraying change. &lt;/p&gt;</content><category term=
 &lt;li class="task-list-item"&gt;&lt;input type="checkbox" disabled checked/&gt; PSYA01*  &lt;/li&gt;
 &lt;li class="task-list-item"&gt;&lt;input type="checkbox" disabled checked/&gt; PSYA02*  &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;
-&lt;div class="progress progress-0plus"&gt;
-&lt;div class="progress-bar" style="width:8.00%"&gt;
-&lt;p class="progress-label"&gt;Total: 2/25&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/p&gt;
+&lt;p&gt;[=2/25 "Total: 2/25"]&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Laboratory Methods&lt;/strong&gt;(1.5 CR, 3 courses)  &lt;/p&gt;
 &lt;ul class="task-list"&gt;
 &lt;li class="task-list-item"&gt;&lt;input type="checkbox" disabled checked/&gt; PSYB70*  &lt;/li&gt;
 &lt;li class="task-list-item"&gt;&lt;input type="checkbox" disabled checked/&gt; PSYC70*  &lt;/li&gt;
 &lt;li class="task-list-item"&gt;&lt;input type="checkbox" disabled/&gt; PSYC75 → IPR  &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;
-&lt;div class="progress progress-0plus"&gt;
-&lt;div class="progress-bar" style="width:16.00%"&gt;
-&lt;p class="progress-label"&gt;Total: 4/25&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/p&gt;
+&lt;p&gt;[=4/25 "Total: 4/25"]&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Statistical Methods&lt;/strong&gt; (1 CR, 2 courses)  &lt;/p&gt;
 &lt;ul class="task-list"&gt;
 &lt;li class="task-list-item"&gt;&lt;input type="checkbox" disabled checked/&gt; PSYB07*  &lt;/li&gt;
 &lt;li class="task-list-item"&gt;&lt;input type="checkbox" disabled checked/&gt; PSYC08  &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;
-&lt;div class="progress progress-20plus"&gt;
-&lt;div class="progress-bar" style="width:32.00%"&gt;
-&lt;p class="progress-label"&gt;Total: 8/25&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/p&gt;
+&lt;p&gt;[=8/25 "Total: 8/25"]&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Scientific Communication&lt;/strong&gt; (0.5 CR, 1 course)  &lt;/p&gt;
 &lt;ul class="task-list"&gt;
 &lt;li class="task-list-item"&gt;&lt;input type="checkbox" disabled/&gt; PSYC02* → IPR  &lt;/li&gt;

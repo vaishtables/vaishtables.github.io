@@ -18,10 +18,8 @@ MARKDOWN = {
     "extensions": [
         "plugins.citekeyx",
         "plugins.fencedx",
-        "markdown.extensions.attr_list",
         "markdown.extensions.def_list",
         "pymdownx.tasklist",
-        "pymdownx.progressbar",
     ],
     "extension_configs": {
     },
