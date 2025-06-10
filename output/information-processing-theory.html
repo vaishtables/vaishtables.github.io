@@ -15,7 +15,7 @@
 <p>Theory</p>
   <article>
     <h1>Information Processing Theory</h1>
-<p>The brain is figured computationally.</p>
+<h1>Theory</h1>
   </article>
       </main>
       <footer>
@@ -23,9 +23,12 @@
     <script src="./theme/js/citeproc.js"></script>
     <script src="./theme/js/rendercite.js"></script>
     <script src="./theme/js/mermaid.min.js"></script>
-    <script>
-    mermaid.initialize({ startOnLoad: true });
-    </script>
+    <script>mermaid.initialize({ 
+      startOnLoad: true,
+      theme: 'base',
+      themeVariables: {
+        primaryColor: '#d0d4d1'
+      } 
+    });</script>
   </body>
-
 </html>

@@ -1,3 +1,6 @@
+import pymdownx
+
+
 AUTHOR = 'Vaish'
 SITENAME = 'Fragments'
 SITEURL = "."
@@ -12,9 +15,16 @@ PLUGINS = ['zid_mapper','zid_linker']
 ARTICLE_EXCLUDES = ['Fleeting']
 
 MARKDOWN = {
-    'extension_configs': {
-        'plugins.citekeyx': {},
-        'plugins.fencedx' : {}
+    "extensions": [
+        "plugins.citekeyx",
+        "plugins.fencedx",
+        "markdown.extensions.attr_list",
+        "markdown.extensions.def_list",
+        "pymdownx.tasklist",
+        "pymdownx.progressbar",
+    ],
+    "extension_configs": {
     },
-    'output_format': 'html5',
+    "output_format": "html5",
 }
+

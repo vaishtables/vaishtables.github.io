@@ -1,22 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Fragments - Theory</title><link href="./" rel="alternate"></link><link href="./feeds/theory.atom.xml" rel="self"></link><id>./</id><updated>2025-06-05T00:00:00-04:00</updated><entry><title>Cognitive Stages (Piaget)</title><link href="./cognitive-stages-piaget.html" rel="alternate"></link><published>2025-06-05T00:00:00-04:00</published><updated>2025-06-05T00:00:00-04:00</updated><author><name>Vaishnavy Puvipalan</name></author><id>tag:None,2025-06-05:./cognitive-stages-piaget.html</id><content type="html">&lt;h1&gt;Cognitive Stages (Piaget)&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Fragments - Theory</title><link href="./" rel="alternate"></link><link href="./feeds/theory.atom.xml" rel="self"></link><id>./</id><updated>2025-06-09T00:00:00-04:00</updated><entry><title>Stages of Cognitive Development in Children (Piaget)</title><link href="./stages-of-cognitive-development-in-children-piaget.html" rel="alternate"></link><published>2025-06-09T00:00:00-04:00</published><updated>2025-06-09T00:00:00-04:00</updated><author><name>Vaishnavy Puvipalan</name></author><id>tag:None,2025-06-09:./stages-of-cognitive-development-in-children-piaget.html</id><summary type="html">&lt;h1&gt;Stages of Cognitive Development in Children (Piaget)&lt;/h1&gt;
+&lt;h1&gt;Theory&lt;/h1&gt;
 &lt;hr&gt;
-&lt;p&gt;Title: Cognitive Stages (Piaget)
-Authors: Vaishnavy Puvipalan
-Date: 2025-06-03
-ZID: 2025060353 
-Category: Theory
-Tags: Theory&lt;/p&gt;
+&lt;dl&gt;
+&lt;dt&gt;operation&lt;/dt&gt;
+&lt;dd&gt;an interiorized action; a logical structure which marks the essence of knowledge according Piaget&lt;/dd&gt;
+&lt;dd&gt;mental representation or construction of an object as a thing that can be manipulated&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;ol&gt;
+&lt;li&gt;sensorimotor stage (0-18 mos.)&lt;ol&gt;
+&lt;li&gt;object permanence&lt;/li&gt;
+&lt;li&gt;practical space&lt;/li&gt;
+&lt;li&gt;temporal succession&lt;/li&gt;
+&lt;li&gt;no operations yet …&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;&lt;/ol&gt;</summary><content type="html">&lt;h1&gt;Stages of Cognitive Development in Children (Piaget)&lt;/h1&gt;
+&lt;h1&gt;Theory&lt;/h1&gt;
 &lt;hr&gt;
-&lt;h1&gt;Cognitive Stages (Piaget)&lt;/h1&gt;</content><category term="Theory"></category><category term='"Theory"'></category></entry><entry><title>Information Processing Theory</title><link href="./information-processing-theory.html" rel="alternate"></link><published>2025-06-05T00:00:00-04:00</published><updated>2025-06-05T00:00:00-04:00</updated><author><name>Vaishnavy Puvipalan</name></author><id>tag:None,2025-06-05:./information-processing-theory.html</id><content type="html">&lt;h1&gt;Information Processing Theory&lt;/h1&gt;
-&lt;p&gt;The brain is figured computationally.&lt;/p&gt;</content><category term="Theory"></category><category term='"Theory"'></category></entry><entry><title>Psychosexual Stages (Freud)</title><link href="./psychosexual-stages-freud.html" rel="alternate"></link><published>2025-06-05T00:00:00-04:00</published><updated>2025-06-05T00:00:00-04:00</updated><author><name>Vaishnavy Puvipalan</name></author><id>tag:None,2025-06-05:./psychosexual-stages-freud.html</id><content type="html">&lt;h1&gt;Psychosexual Stages (Freud)&lt;/h1&gt;
-&lt;pre class="mermaid"&gt;
-gantt
-    dateFormat YY
-    axisFormat %y
-    oral : 00,01
-    anal : 01,03
-    phallic : 03,06
-    latent : 06,11
-    genital : 11,60
-&lt;/pre&gt;</content><category term="Theory"></category><category term='"Theory"'></category></entry><entry><title>Psychosocial Stages (Erikson)</title><link href="./psychosocial-stages-erikson.html" rel="alternate"></link><published>2025-06-05T00:00:00-04:00</published><updated>2025-06-05T00:00:00-04:00</updated><author><name>Vaishnavy Puvipalan</name></author><id>tag:None,2025-06-05:./psychosocial-stages-erikson.html</id><content type="html">&lt;h1&gt;Psychosocial Stages (Erikson)&lt;/h1&gt;</content><category term="Theory"></category><category term='"Theory"'></category></entry></feed>
+&lt;dl&gt;
+&lt;dt&gt;operation&lt;/dt&gt;
+&lt;dd&gt;an interiorized action; a logical structure which marks the essence of knowledge according Piaget&lt;/dd&gt;
+&lt;dd&gt;mental representation or construction of an object as a thing that can be manipulated&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;ol&gt;
+&lt;li&gt;sensorimotor stage (0-18 mos.)&lt;ol&gt;
+&lt;li&gt;object permanence&lt;/li&gt;
+&lt;li&gt;practical space&lt;/li&gt;
+&lt;li&gt;temporal succession&lt;/li&gt;
+&lt;li&gt;no operations yet, only practical knowledge, a substructure&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;preoperational stage&lt;ol&gt;
+&lt;li&gt;symbolic function,  representational knowledge, a substructure, follows from practical knowledge&lt;/li&gt;
+&lt;li&gt;no conservation (required for reversible operations)&lt;ol&gt;
+&lt;li&gt;list the types of conservation-based reversible operations&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;formal operational stage&lt;ol&gt;
+&lt;li&gt;classifcation&lt;/li&gt;
+&lt;li&gt;ordering&lt;/li&gt;
+&lt;li&gt;number&lt;/li&gt;
+&lt;li&gt;spatial&lt;/li&gt;
+&lt;li&gt;temporal&lt;/li&gt;
+&lt;li&gt;elementary logic of classes and relations&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;formal operational stage&lt;ol&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</content><category term="Theory"></category><category term='"Theory"'></category></entry></feed>

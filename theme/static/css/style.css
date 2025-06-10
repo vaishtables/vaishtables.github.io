@@ -113,11 +113,9 @@ a {
 }
 
 
-
-
 code *,
 pre * {
-  font-family: 'Latin Modern Mono', mono;
+  font-family: 'Latin Modern Mono', mono !important;
 }
 
 * {
@@ -136,4 +134,13 @@ blockquote {
   margin-left: 0;
 }
 
+.progress.progress-20plus {
+  background: grey;
+}
+.progress-bar {
+  background: palegreen;
+}
 
+.mermaid {
+  font-family: "Latin Modern Mono";
+}

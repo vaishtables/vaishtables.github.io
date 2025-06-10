@@ -21,8 +21,8 @@ def extract_pages_render(input_pdf, output_pdf, first_page, last_page):
     print(f"Saved to {output_pdf}")
 
 extract_pages_render(
-    r"The Developing Person Through Childhood and Adolescence.pdf",
-    r"Biosocial Development.pdf",
-    418,
-    464
+    r"C:\Users\vaish\Zotero\storage\425L5RC4\The Developing Person through Childhood and Adolescence.pdf",
+    r"Middle Childhood Cognitive.pdf",
+    610,
+    659
 )

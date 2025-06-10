@@ -22,9 +22,12 @@
     <script src="./theme/js/citeproc.js"></script>
     <script src="./theme/js/rendercite.js"></script>
     <script src="./theme/js/mermaid.min.js"></script>
-    <script>
-    mermaid.initialize({ startOnLoad: true });
-    </script>
+    <script>mermaid.initialize({ 
+      startOnLoad: true,
+      theme: 'base',
+      themeVariables: {
+        primaryColor: '#d0d4d1'
+      } 
+    });</script>
   </body>
-
 </html>
