@@ -1,12 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Fragments - Jean Piaget</title><link>./</link><description></description><lastBuildDate>Mon, 09 Jun 2025 00:00:00 -0400</lastBuildDate><item><title>"Cognitive Development in Children"</title><link>./cognitive-development-in-children.html</link><description>&lt;h1&gt;"Cognitive Development in Children"&lt;/h1&gt;
-&lt;h1&gt;Literature&lt;/h1&gt;
-&lt;p&gt;&lt;span data-citationItems="[&amp;quot;piagetPartCognitiveDevelopment1964&amp;quot;]" id="PAR1"&gt;&lt;/span&gt;
-- distinguishes between "the problem of development in general and the problem of learning" (p. 176)
-    - development of knowledge is tied to embryogenesis
-        - spontaneous, emergent, innate
-    - development of leaning is adaptive&lt;/p&gt;
+<rss version="2.0"><channel><title>Fragments - Jean Piaget</title><link>./</link><description></description><lastBuildDate>Tue, 10 Jun 2025 00:00:00 -0400</lastBuildDate><item><title>_The Psychology of the Child_</title><link>./_the-psychology-of-the-child_.html</link><description>&lt;h1&gt;&lt;em&gt;The Psychology of the Child&lt;/em&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;span data-citationItems="[&amp;quot;piagetPsychologyChild1969&amp;quot;]" id="PAR1"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;Defintions&lt;/h3&gt;
+&lt;h3&gt;Theory&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;operations consist of reversible transformations&lt;ul&gt;
+&lt;li&gt;two kinds of reversibility&lt;ul&gt;
+&lt;li&gt;inversion&lt;/li&gt;
+&lt;li&gt;reciprocity&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;not all dimensions are transformed at once&lt;ul&gt;
+&lt;li&gt;the invariable constant indexes schemes of conservation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;hr&gt;
 &lt;ul&gt;
-&lt;li&gt;on operations:&lt;blockquote&gt;
-&lt;p&gt;"To understand the development of knowledge, we must start with an idea which …&lt;/p&gt;&lt;/blockquote&gt;&lt;/li&gt;&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jean Piaget</dc:creator><pubDate>Mon, 09 Jun 2025 00:00:00 -0400</pubDate><guid isPermaLink="false">tag:None,2025-06-09:./cognitive-development-in-children.html</guid><category>Literature</category><category>"Literature"</category></item></channel></rss>
+&lt;li&gt;conservation&lt;ul&gt;
+&lt;li&gt;of substance&lt;ul&gt;
+&lt;li&gt;age $7\parallel{8}$&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;of weight&lt;ul&gt;
+&lt;li&gt;age $9\parallel{10}$&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;of volume&lt;ul&gt;
+&lt;li&gt;age $11\parallel …&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jean Piaget</dc:creator><pubDate>Tue, 10 Jun 2025 00:00:00 -0400</pubDate><guid isPermaLink="false">tag:None,2025-06-10:./_the-psychology-of-the-child_.html</guid><category>Literature</category><category>"Literature"</category></item><item><title>"Cognitive Development in Children"</title><link>./cognitive-development-in-children.html</link><description>&lt;h1&gt;"Cognitive Development in Children"&lt;/h1&gt;
+&lt;h3&gt;Arguments&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;distinguishes between "the problem of development in general and the problem of learning" (p. 176)&lt;ul&gt;
+&lt;li&gt;development of knowledge is tied to embryogenesis&lt;ul&gt;
+&lt;li&gt;spontaneous, emergent, innate&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;development of learning is adaptive&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;Definitions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="operation-piaget.html"&gt;operation (Piaget)&lt;/a&gt;:&lt;blockquote&gt;
+&lt;p&gt;"To understand the development of knowledge, we must start with an idea …&lt;/p&gt;&lt;/blockquote&gt;&lt;/li&gt;&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jean Piaget</dc:creator><pubDate>Mon, 09 Jun 2025 00:00:00 -0400</pubDate><guid isPermaLink="false">tag:None,2025-06-09:./cognitive-development-in-children.html</guid><category>Literature</category><category>"Literature"</category></item></channel></rss>
