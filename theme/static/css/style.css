@@ -1,4 +1,4 @@
-@font-face {
+/*@font-face {
   font-family: 'NewComputerModernSans10';
   src: url('fonts/NewCMSans10-Regular.otf') format('otf');
   font-style: normal;
@@ -22,7 +22,7 @@
   src: url('fonts/NewCMSans10-BoldOblique.otf') format('otf');
   font-style: italic;
   font-weight: 700;
-}
+}*/
 
 @font-face {
   font-family: 'NotoEmoji';
@@ -44,8 +44,6 @@
 }
 
 
-
-/*
 @font-face {
   font-family: 'Latin Modern Roman';
   src: url('fonts/lmroman10-regular-webfont.woff') format('woff');
@@ -73,7 +71,7 @@
   font-weight: normal;
   font-style: italic;
 }
-*/
+
 @font-face {
   font-family: 'Latin Modern Mono';
   src: url('fonts/lmmono10-regular-webfont.woff') format('woff');
@@ -111,7 +109,6 @@ article {
 .folder > .dots {
   opacity: 0;
 }
-
 
 .index {
   margin-right: 0.5em;
@@ -167,7 +164,7 @@ pre * {
 }
 
 * {
-  font-family: 'NotoEmoji', 'NotoSym', 'NewComputerModernSans10';
+  font-family: 'NotoEmoji', 'NotoSym', 'Latin Modern Roman';
 }
 
 
