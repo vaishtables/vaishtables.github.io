@@ -13,38 +13,34 @@
     <h2>Archives for Fragments</h2>
 
     <dl>
-            <dt>Tue 10 June 2025</dt>
-            <dd><a href="./development-of-cognitive-operations-piaget.html">Development of Cognitive Operations (Piaget)</a></dd>
-            <dt>Tue 10 June 2025</dt>
-            <dd><a href="./operation-piaget.html">operation (Piaget)</a></dd>
-            <dt>Tue 10 June 2025</dt>
-            <dd><a href="./transductive-reasoning-piaget.html">transductive reasoning (Piaget)</a></dd>
-            <dt>Mon 09 June 2025</dt>
-            <dd><a href="./accommodation-piaget.html">accommodation (Piaget)</a></dd>
-            <dt>Mon 09 June 2025</dt>
-            <dd><a href="./assimilation-piaget.html">assimilation (Piaget)</a></dd>
-            <dt>Mon 09 June 2025</dt>
-            <dd><a href="./classification-piaget.html">classification (Piaget)</a></dd>
-            <dt>Mon 09 June 2025</dt>
-            <dd><a href="./cognitive-development-in-children.html">"Cognitive Development in Children"</a></dd>
-            <dt>Mon 09 June 2025</dt>
-            <dd><a href="./cognitive-equilibrium-piaget.html">cognitive equilibrium (Piaget)</a></dd>
-            <dt>Mon 09 June 2025</dt>
-            <dd><a href="./cognitive-theory.html">cognitive theory</a></dd>
-            <dt>Mon 09 June 2025</dt>
+            <dt>Mon 23 June 2025</dt>
+            <dd><a href="./childhood-adolescence-childrens-literature-review-_una-huna-ukpik-learns-to-sew_.html">Childhood & Adolescence Children's Literature Review: _Una Huna? Ukpik Learns to Sew_</a></dd>
+            <dt>Sun 22 June 2025</dt>
+            <dd><a href="./interpersonal-relationships-family.html">Interpersonal Relationships: Family</a></dd>
+            <dt>Fri 20 June 2025</dt>
+            <dd><a href="./mate-screening-motive-how-women-use-luxury-consumption-to-signal-to-men.html">"Mate Screening Motive: How Women Use Luxury Consumption to Signal to Men"</a></dd>
+            <dt>Fri 20 June 2025</dt>
+            <dd><a href="./student-paper-apa7-template.html">Student Paper APA7 Template</a></dd>
+            <dt>Thu 19 June 2025</dt>
+            <dd><a href="./imaginary-audience.html">imaginary audience</a></dd>
+            <dt>Mon 16 June 2025</dt>
             <dd><a href="./educable.html">educable</a></dd>
-            <dt>Mon 09 June 2025</dt>
-            <dd><a href="./horizontal-decalage-piaget.html">horizontal decalage (Piaget)</a></dd>
+            <dt>Mon 16 June 2025</dt>
+            <dd><a href="./eveningness.html">eveningness</a></dd>
+            <dt>Mon 16 June 2025</dt>
+            <dd><a href="./lacuna.html">lacuna</a></dd>
+            <dt>Mon 16 June 2025</dt>
+            <dd><a href="./sybaritic.html">sybaritic</a></dd>
+            <dt>Fri 13 June 2025</dt>
+            <dd><a href="./using-vega-in-ssg.html">Using Vega in SSG</a></dd>
+            <dt>Wed 11 June 2025</dt>
+            <dd><a href="./apogee.html">apogee</a></dd>
+            <dt>Tue 10 June 2025</dt>
+            <dd><a href="./maelstrom.html">maelstrom</a></dd>
+            <dt>Tue 10 June 2025</dt>
+            <dd><a href="./nichrome.html">nichrome</a></dd>
             <dt>Mon 09 June 2025</dt>
             <dd><a href="./hulling.html">Hulling</a></dd>
-            <dt>Mon 09 June 2025</dt>
-            <dd><a href="./information-processing-theory.html">information-processing theory</a></dd>
-            <dt>Mon 09 June 2025</dt>
-            <dd><a href="./note-flow.html">Note Flow</a></dd>
-            <dt>Mon 09 June 2025</dt>
-            <dd><a href="./seriation-piaget.html">seriation (Piaget)</a></dd>
-            <dt>Mon 09 June 2025</dt>
-            <dd><a href="./to-do.html">To-Do</a></dd>
             <dt>Fri 06 June 2025</dt>
             <dd><a href="./pluralistic-ignorance.html">pluralistic ignorance</a></dd>
             <dt>Fri 06 June 2025</dt>
@@ -58,18 +54,15 @@
             <dt>Thu 05 June 2025</dt>
             <dd><a href="./interpersonal-relationships-paper.html">Interpersonal Relationships Paper</a></dd>
             <dt>Thu 05 June 2025</dt>
-            <dd><a href="./middle-childhood-midterm.html">Middle Childhood Midterm</a></dd>
-            <dt>Thu 05 June 2025</dt>
             <dd><a href="./parvenu.html">parvenu</a></dd>
             <dt>Tue 03 June 2025</dt>
             <dd><a href="./aaloolm.html">ஆலோலம்</a></dd>
-            <dt>Sun 01 June 2025</dt>
-            <dd><a href="./sybaritic.html">sybaritic</a></dd>
             <dt>Sun 01 June 2025</dt>
             <dd><a href="./undergird.html">undergird</a></dd>
     </dl>
       </main>
       <footer>
+        <button onclick="downloadTableAsCSV('myTable')">Download CSV</button>
       </footer>
     <script src="./theme/js/citeproc.js"></script>
     <script src="./theme/js/render-bib.js"></script>
@@ -81,5 +74,24 @@
         primaryColor: '#d0d4d1'
       } 
     });</script>
+        <script>
+        function downloadTableAsCSV(tableId) {
+          const table = document.getElementById(tableId);
+          let csv = [];
+          for (let row of table.rows) {
+            let cols = Array.from(row.cells).map(cell => 
+              '"' + cell.innerText.replace(/"/g, '""') + '"'
+            );
+            csv.push(cols.join(","));
+          }
+          const csvString = csv.join("\n");
+          const blob = new Blob([csvString], { type: "text/csv" });
+          const link = document.createElement("a");
+          link.href = URL.createObjectURL(blob);
+          link.download = "table.csv";
+          link.click();
+        }
+        </script>
+
   </body>
 </html>

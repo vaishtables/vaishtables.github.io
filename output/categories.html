@@ -15,13 +15,13 @@
             <li><a href="./category/fleeting.html">Fleeting</a> (4)</li>
             <li><a href="./category/index.html">Index</a> (1)</li>
             <li><a href="./category/literature.html">Literature</a> (1)</li>
-            <li><a href="./category/term.html">Term</a> (10)</li>
-            <li><a href="./category/theory.html">Theory</a> (1)</li>
-            <li><a href="./category/word.html">Word</a> (9)</li>
-            <li><a href="./category/writing.html">Writing</a> (1)</li>
+            <li><a href="./category/term.html">Term</a> (1)</li>
+            <li><a href="./category/word.html">word</a> (14)</li>
+            <li><a href="./category/writing.html">Writing</a> (2)</li>
     </ul>
       </main>
       <footer>
+        <button onclick="downloadTableAsCSV('myTable')">Download CSV</button>
       </footer>
     <script src="./theme/js/citeproc.js"></script>
     <script src="./theme/js/render-bib.js"></script>
@@ -33,5 +33,24 @@
         primaryColor: '#d0d4d1'
       } 
     });</script>
+        <script>
+        function downloadTableAsCSV(tableId) {
+          const table = document.getElementById(tableId);
+          let csv = [];
+          for (let row of table.rows) {
+            let cols = Array.from(row.cells).map(cell => 
+              '"' + cell.innerText.replace(/"/g, '""') + '"'
+            );
+            csv.push(cols.join(","));
+          }
+          const csvString = csv.join("\n");
+          const blob = new Blob([csvString], { type: "text/csv" });
+          const link = document.createElement("a");
+          link.href = URL.createObjectURL(blob);
+          link.download = "table.csv";
+          link.click();
+        }
+        </script>
+
   </body>
 </html>

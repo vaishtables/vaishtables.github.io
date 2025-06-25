@@ -3,3 +3,5 @@ __pycache__/
 .env
 *.lnk
 *.pdf
+output.html
+output/

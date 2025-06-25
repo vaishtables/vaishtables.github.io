@@ -22,7 +22,7 @@ def extract_pages_render(input_pdf, output_pdf, first_page, last_page):
 
 extract_pages_render(
     r"C:\Users\vaish\Zotero\storage\425L5RC4\The Developing Person through Childhood and Adolescence.pdf",
-    r"Middle Childhood Cognitive.pdf",
-    610,
-    659
+    r"Adolescence Psychosocial1.pdf",
+    811,
+    861
 )

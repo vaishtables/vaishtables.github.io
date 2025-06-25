@@ -17,8 +17,8 @@ ARTICLE_EXCLUDES = ['Fleeting']
 MARKDOWN = {
     "extensions": [
         "plugins.citekeyx",
-        "plugins.fencedx",
         "markdown.extensions.def_list",
+        "markdown.extensions.tables",
         "pymdownx.tasklist",
     ],
     "extension_configs": {

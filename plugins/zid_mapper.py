@@ -7,7 +7,7 @@ def add_zid_map(generator):
         # Get from metadata
         zid = article.metadata.get('zid')
         if zid:
-            article.ZID = zid  # promote to attribute
+            article.ZID = zid  
             zid_map[zid] = article
 
     generator.context['zid_map'] = zid_map

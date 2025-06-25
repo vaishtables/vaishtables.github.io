@@ -1,11 +1,9 @@
 import re
 from pelican import signals
 
-# Updated regex to capture optional link text after a pipe
 ZID_PATTERN = re.compile(r"\[\[([0-9]{10})(\|([^\]]+))?\]\]")
 
 def replace_zid_references(generators):
-    # Find the context and zid_map from the ArticlesGenerator
     for generator in generators:
         context = getattr(generator, 'context', None)
         zid_map = context.get('zid_map') if context else None
@@ -14,9 +12,8 @@ def replace_zid_references(generators):
         if zid_map and articles:
             break
     else:
-        return  # Nothing to do
+        return  
 
-    # Replace ZID references in article content
     for article in articles:
         content = getattr(article, '_content', None)
         if not content:

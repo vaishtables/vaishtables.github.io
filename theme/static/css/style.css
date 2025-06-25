@@ -1,4 +1,52 @@
 @font-face {
+  font-family: 'NewComputerModernSans10';
+  src: url('fonts/NewCMSans10-Regular.otf') format('otf');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NewComputerModernSans10';
+  src: url('fonts/NewCMSans10-Oblique.otf') format('otf');
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'NewComputerModernSans10';
+  src: url('fonts/NewCMSans10-Bold.otf') format('otf');
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'NewComputerModernSans10';
+  src: url('fonts/NewCMSans10-BoldOblique.otf') format('otf');
+  font-style: italic;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'NotoEmoji';
+  src: url('fonts/Noto Emoji.ttf');
+  unicode-range: U+1F9EC, U+1F9E0, U+1F449;
+}
+
+@font-face {
+  font-family: 'NotoSym';
+  src: url('fonts/Noto Sans Symbols.ttf');
+  unicode-range: 
+    U+00AC, U+2194, U+22BB, U+2234, U+2235, U+2191,
+    U+2193, U+2B6B, U+21E3, U+00A7, U+22B0, U+22B1,
+    U+2912, U+2913, U+2192, U+219B, U+21E2, U+2206,
+    U+221D, U+223C, U+2941, U+2640, U+2642, U+204E,
+    U+00D7, U+2254, U+2260, U+2200, U+23F1, U+26A4,
+    U+1F30F, U+1F5A4, U+2695, U+1F464, U+1F46A, U+23F3,
+    U+1F587;
+}
+
+
+
+/*
+@font-face {
   font-family: 'Latin Modern Roman';
   src: url('fonts/lmroman10-regular-webfont.woff') format('woff');
   font-weight: normal;
@@ -25,7 +73,7 @@
   font-weight: normal;
   font-style: italic;
 }
-
+*/
 @font-face {
   font-family: 'Latin Modern Mono';
   src: url('fonts/lmmono10-regular-webfont.woff') format('woff');
@@ -119,9 +167,8 @@ pre * {
 }
 
 * {
-  font-family: 'Latin Modern Roman', serif;
+  font-family: 'NotoEmoji', 'NotoSym', 'NewComputerModernSans10';
 }
-
 
 
 blockquote::after {
@@ -132,15 +179,6 @@ blockquote::after {
 blockquote {
   padding-left: 1em;
   margin-left: 0;
-}
-
-.progress.progress-20plus {
-  background: grey;
-}
-.progress-bar {
-  background: palegreen;
-}
-
-.mermaid {
-  font-family: "Latin Modern Mono";
+  border-left: solid grey 2px;
+  font-style: italic;
 }
