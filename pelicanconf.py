@@ -19,6 +19,7 @@ MARKDOWN = {
         "plugins.citekeyx",
         "markdown.extensions.def_list",
         "markdown.extensions.tables",
+        "markdown.extensions.codehilite",
         "pymdownx.tasklist",
     ],
     "extension_configs": {
