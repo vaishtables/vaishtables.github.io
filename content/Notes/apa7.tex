@@ -1,5 +1,4 @@
 \documentclass[12pt, letterpaper]{article}
-
 \usepackage[margin=1in]{geometry}
 \usepackage{setspace}
 \usepackage{fontspec}
@@ -18,41 +17,39 @@
 \usepackage{pdfpages}
 
 \setmonofont{CMU Typewriter Text}
+
 \newcolumntype{Y}{>{\centering\arraybackslash}X}
 
 \captionsetup{labelsep=newline, labelfont=bf, textfont=it, font=doublespacing}
 \captionsetup[figure]{justification=justified, singlelinecheck=off}
 \captionsetup[table]{justification=justified, singlelinecheck=off}
-
-\providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 
 $if(csl-refs)$
-\newcommand{\citeproctext}{}
-\newcommand{\citeproc}[2]{\begingroup\def\citeproctext{#2}\cite{#1}\endgroup}
-
+\NewDocumentCommand\citeproctext{}{}
+\NewDocumentCommand\citeproc{mm}{%
+\begingroup\def\citeproctext{#2}\cite{#1}\endgroup}
 \makeatletter
 \let\@cite@ofmt\@firstofone
 \def\@biblabel#1{}
 \def\@cite#1#2{{#1\if@tempswa , #2\fi}}
 \makeatother
-
 \newlength{\cslhangindent}
 \setlength{\cslhangindent}{1.5em}
 \newlength{\csllabelwidth}
 \setlength{\csllabelwidth}{3em}
-
 \newenvironment{CSLReferences}[2]
 {\begin{list}{}{%
-\setlength{\itemindent}{0pt}
-\setlength{\leftmargin}{0pt}
-\setlength{\parsep}{0pt}
-\ifodd #1
-\setlength{\leftmargin}{\cslhangindent}
-\setlength{\itemindent}{-1\cslhangindent}
-\fi
-\setlength{\itemsep}{#2\baselineskip}}}
+    \setlength{\itemindent}{0pt}
+    \setlength{\leftmargin}{0pt}
+    \setlength{\parsep}{0pt}
+    \ifodd #1
+    \setlength{\leftmargin}{\cslhangindent}
+    \setlength{\itemindent}{-1\cslhangindent}
+    \fi
+    \setlength{\itemsep}{#2\baselineskip}}}
 {\end{list}}
-
 \usepackage{calc}
 \newcommand{\CSLBlock}[1]{\hfill\break\parbox[t]{\linewidth}{\strut\ignorespaces#1\strut}}
 \newcommand{\CSLLeftMargin}[1]{\parbox[t]{\csllabelwidth}{\strut#1\strut}}
@@ -60,54 +57,59 @@ $if(csl-refs)$
 \newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
 $endif$
 
-\title{\fontsize{12}{12}\selectfont \textbf{$title$}}
+\title{\fontsize{12}{12}\selectfont \textbf{{$title$}}}
 \author{\fontsize{12}{12}\selectfont{$author$}}
-\date{\fontsize{12}{12}\selectfont{\today}}
+\date{\fontsize{12}{12}\selectfont {\today}}
 
 $if(affiliation)$
 \newcommand{\affiliation}{\fontsize{12}{12}\selectfont{$affiliation$}}
 $endif$
-
 $if(instructor)$
 \newcommand{\instructor}{\fontsize{12}{12}\selectfont{$instructor$}}
 $endif$
-
 $if(course)$
 \newcommand{\course}{\fontsize{12}{12}\selectfont{$course$}}
 $endif$
 
 \makeatletter
 \def\maketitle{
-\begin{center}
-{\@title} \\\\[2em]
-{\@author} \\\\[1em]
-{\affiliation} \\\\[1em]
-{\course} \\\\[1em]
-{\instructor} \\\\[1em]
-{\@date}
-\end{center}
+  \begin{center}
+    {\@title} \\[2em]
+    {\@author} \\[1em]
+    {\affiliation} \\[1em]
+    {\course} \\[1em]
+    {\instructor} \\[1em]
+    {\@date}
+  \end{center}
 }
 \makeatother
 
 \titleformat{\section}[block]
-{\normalfont\fontsize{12}{14}\selectfont\bfseries\centering}
-{} {0em} {}
+  {\normalfont\fontsize{12}{14}\selectfont\bfseries\centering}
+  {}
+  {0em}
+  {}
 
 \titleformat{\subsection}[block]
-{\normalfont\fontsize{12}{14}\selectfont\bfseries\raggedright}
-{} {0pt} {}
+  {\normalfont\fontsize{12}{14}\selectfont\bfseries\raggedright}
+  {}
+  {0pt}
+  {}
 
-\titlespacing*{\subsection}{0pt}{2\baselineskip}{1\baselineskip}
+\titlespacing*{\subsection}{0pt}{*2}{*1}
 
 \titleformat{\subsubsection}[block]
-{\normalfont\fontsize{12}{14}\selectfont\bfseries\itshape\raggedright}
-{} {0pt} {}
+  {\normalfont\fontsize{12}{14}\selectfont\bfseries\itshape\raggedright}
+  {}
+  {0pt}
+  {}
 
-\titlespacing*{\subsubsection}{0pt}{2\baselineskip}{1\baselineskip}
+\titlespacing*{\subsubsection}{0pt}{*2}{*1}
 
 \setcounter{secnumdepth}{2}
 
 \begin{document}
+
 \doublespacing
 \setlength{\parindent}{0.5in}
 \setlength{\parskip}{0pt}
@@ -117,9 +119,9 @@ $endif$
 \renewcommand{\headrulewidth}{0pt}
 
 \begin{titlepage}
-\vspace*{4\baselineskip}
-\maketitle
-\thispagestyle{fancy}
+  \vspace*{4\baselineskip}
+  \maketitle
+  \thispagestyle{fancy}
 \end{titlepage}
 
 $if(abstract)$
@@ -132,9 +134,7 @@ $abstract$
 $endif$
 
 \setcounter{page}{2}
-\centerline{\fontsize{12}{12}\selectfont \textbf{$title$}}
+\centerline{\fontsize{12}{12}\selectfont \textbf{{$title$}}}
 $body$
+
 \end{document}
-
-
-
