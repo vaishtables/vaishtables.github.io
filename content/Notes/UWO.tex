@@ -1,0 +1,173 @@
+\documentclass[12pt, letterpaper]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{fontspec}
+\usepackage{tabularray}
+\usepackage{hyperref}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{setspace}
+\pagestyle{empty}
+\hypersetup{hidelinks}
+
+\setmainfont{palatinolinotype}[
+    Path=./PalatinoLinotype/,
+    Extension = .ttf,
+    UprightFont = *-roman,
+    BoldFont = *-bold,
+    ItalicFont = *-italic,
+    ]
+
+\titleformat{\section}[block]
+  {\bfseries\filcenter}    
+  {}            
+  {0em}                    
+  {\MakeUppercase} 
+
+\DeclareTblrTemplate{contfoot}{empty}{}
+\SetTblrTemplate{contfoot}{empty}
+
+\DeclareTblrTemplate{conthead-text}{empty}{}
+\SetTblrTemplate{conthead-text}{empty}
+
+\DeclareTblrTemplate{conthead}{empty}{}
+\SetTblrTemplate{conthead}{empty}
+
+\DeclareTblrTemplate{caption}{empty}{}
+\SetTblrTemplate{caption}{empty}
+
+\DeclareTblrTemplate{head}{empty}{}
+\SetTblrTemplate{head}{empty}
+
+\begin{document}
+%HEADER%
+
+\begin{center}
+\textbf{\large{Vaishnavy Puvipalan}} \\
+    \begin{longtblr}{width=\textwidth, colspec = {c|c|c}}
+    Toronto, Ontario & \href{mailto:vaishnavy.puvipalan@mail.utoronto.ca}{vaishnavy.puvipalan@mail.utoronto.ca}& \href{tel:(647)-621-7861}{(647)-621-7861}
+    \end{longtblr}
+\end{center}
+
+%EDUCATION%
+
+\section{Education}
+\begin{center}
+\begin{longtblr}[presep=0em]{width=\textwidth, colspec = {X[l]r}}
+    \textbf{Hon. BSc.} with High Distinction & Nov. 2025 \\
+    Specialist in Psychology, University of Toronto \\
+    \textsc{cgpa:} 3.6/4.0 \\
+    \SetCell[c=2]{l,wd=\textwidth}\textsc{thesis:} Understanding the computational processes underlying approach-avoidance learning \\
+    \end{longtblr}
+\end{center}
+
+%RESEARCH & LAB EXPERIENCE%
+
+\section{Research \& Lab Experience}
+    \begin{longtblr}[presep=0em]{width=\textwidth, colspec={X[3,l]r}}
+        \textbf{Thesis Student \& Research Assistant}, LeeMTL Lab & Sep. 2023 -- Aug. 2025 \\
+        University of Toronto (Department of Psychology) & PI: Andy Lee \\
+        \SetCell[c=2]{l,wd=\textwidth}{\textit{Project:} Probed mechanisms underlying learned decision-making during approach-avoidance conflict via computational modelling} \\
+        \SetCell[c=2]{l,wd=\textwidth}{Coded and fit hierarchical Bayesian reinforcement learning models to choice data using Stan to capture reward and punishment feedback integration} \\
+        \SetCell[c=2]{l,wd=\textwidth}
+        Conducted complementary statistical analyses in R to test predictors of choice, including personality (i.e., trait grit) \\
+        \SetCell[c=2]{l, wd=\textwidth}
+        Created poster to communicate findings for conference presentation \\
+
+        \\
+        
+        \textbf{Research Assistant}, Experimental Semantics Lab & Sep. 2022 -- Apr. 2023 \\
+        University of Toronto (Department of French) & PI: Lyn Tieu \\
+        \SetCell[c=2]{l,wd=\textwidth}{\textit{Project:} Investigated a semantic typology of emoji whereby the placements of emoji within text trigger different inferences} \\
+        \SetCell[c=2]{l,wd=\textwidth}{Implemented task design and stimuli online using Gorilla Experiment Structure } \\
+        \SetCell[c=2]{l,wd=\textwidth}
+        Programmed dynamic, animated stimuli using JavaScript to simulate naturalistic chat interactions as well as to manipulate temporal alignment of emoji with modified text\\
+
+        \\
+
+        \textbf{Research Assistant}, 4theRecord & Jan. 2022 -- Apr. 2022 \\
+        University of Toronto (Department of Health \& Society) & PI: Jessica Fields \\
+        \SetCell[c=2]{l,wd=\textwidth}{\textit{Project:} Explored how COVID-19 redefined risk-taking among queer and/or racialized young women, to derive insights into the dynamics between social structures and participants’ lived experiences} \\
+        \SetCell[c=2]{l,wd=\textwidth}{Conducted virtual semi-structured interviews with LGBTQ+ and racialized young women } \\
+        \SetCell[c=2]{l,wd=\textwidth}
+        Transcribed and coded interviews for inductive qualitative analysis, categorizing content by themes, affect, and demographic data   \\    
+
+        \\
+
+        \textbf{Research Assistant}, The Beyond Bullying Project & May. 2021 -- Aug. 2021 \\
+        University of Toronto (Jackman Scholars-in-Residence Program, Department of Health \& Society) & PI: Jessica Fields \\
+        \SetCell[c=2]{l,wd=\textwidth}{\textit{Project:} Explored narratives of LGBTQ+ experiences among students in secondary schools in Toronto} \\
+        \SetCell[c=2]{l,wd=\textwidth}{Created digital content, including social media infographics and blog posts, for participant recruitment } \\
+        \SetCell[c=2]{l,wd=\textwidth}
+        Co-presented reflections on ethical considerations of peer research   \\    
+        
+        \end{longtblr}
+
+%PUBLICATIONS%
+
+\newlist{cvlist}{itemize}{1}
+\setlist[cvlist]{
+  label={},             
+  leftmargin=0pt,
+  itemindent=-1.5em,    
+  listparindent=\parindent,
+  parsep=0pt,
+  topsep=0pt,
+  itemsep=0\baselineskip
+}
+
+\section{Publications}
+\doublespacing
+\begin{cvlist}
+
+\item Flicker, S., Hassen, N., ... \textbf{Puvipalan, V.}, ... Fields, J. (2023). Engendering a feminist ethic of care to training a new generation of public health researchers: Reflecting on 4theRecord. In R. Monchalin (Ed.), \textit{Critical perspectives in public health feminisms}. Canadian Scholars.
+
+\item Tieu, L., Qiu, J., \textbf{Puvipalan, V.}, \& Pasternak, R. (2024). Experimental evidence for a semantic typology of emoji: Inferences of co-, pro-, and post-text emoji. \textit{Quarterly Journal of Experimental Psychology, 78}(4). \texttt{https://doi.org/10.1177/17470218241255786}
+
+\end{cvlist}
+
+\section{Presentations}
+
+\begin{cvlist}
+
+\item \textbf{Puvipalan, V.}, Zhang, H. A., Elcano, C. M., Quereshi, B., Ito, R., \& Lee, A. C. H. (2025). \textit{Dynamics of reinforcement learning during motivational conflict}. [Poster presentation]. Lake Ontario Visionary Establishment Conference, Niagara Falls.
+
+\item  Tieu, L., \textbf{Puvipalan, V.}, Qiu, J., \& Pasternak, R. (2023). \textit{From gesture to emoji: Experimental evidence for a semantic typology}. [Conference presentation]. Biennial Meeting of Experimental Pragmatics, Université Paris Cité.
+
+\item Gilbert, J., Pereira, D., ... \textbf{Puvipalan, V.}, ... Fields, J. (2023). \textit{Collective autoethnography and a queer research project’s racial reckoning: Making space for BIPOC researchers}. [Conference presentation]. Annual Conference of the Canadian Society for the Study of Education, York University.
+
+\item Qiu, J., \textbf{Puvipalan, V.}, Pasternak, R., \& Tieu, L. (2023). \textit{An experimental study of the semantic contribution of pro-text emoji}. [Conference presentation]. Annual Meeting of the Canadian Linguistic Association, York University.
+
+\item Qiu, J., \textbf{Puvipalan, V.}, Pasternak, R., Tieu, L. (2023). \textit{Experimental evidence for a semantic typology of emoji}. [Conference presentation]. Toronto-Ottawa-Montreal Semantics Workshop, Université du Québec à Montréal.
+
+\item Tieu, L., Qiu, J., \textbf{Puvipalan, V.} (2023). \textit{An experimental investigation of the inferences of emoji}. [Virtual presentation]. MIT Experimental/Computational Linguistics Group.
+
+\end{cvlist}
+
+\singlespacing
+
+\section{Achievements}
+\begin{itemize}
+  \item Dean's List (2020-2024)
+  \item  Psi Chi, International Honour Society in Psychology (2021)
+  \item Jackman Scholars-in-Residence fellowship in humanities and humanistic social-science research (2021)
+\end{itemize}
+
+\section{Technical Skills}
+\begin{center}
+\begin{tblr}{}
+Programming & Data Analysis & Experiment Building & Document Preparation \\
+R & RStudio & Shiny & RMarkdown\\
+Python & Stan & PsychoPy & Latex\\
+Javascript & Jamovi & Beamer\\
+HTML \& CSS & Dedoose & Gorilla\\
+\end{tblr}
+\end{center}
+
+\section{Other Writing}
+\begin{itemize}
+  \item Writer, \textit{The Underground}, UTSC student newspaper (2020 -- 2021)
+  \item Short story “Seagulls” published in \textit{Hart House Review} (2021)
+\end{itemize}
+\end{document}
+
+\end{document}
